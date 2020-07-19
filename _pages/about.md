@@ -18,12 +18,12 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
 
 * Aided in setting up MySQL python front end         
 
-:satellite: Technical Advisor at Space and Satellite Systems, developing algorithms and community for REALOP (1st CubeSAT mission @ UC Davis, launching June 2021)      
+📡  Technical Advisor at Space and Satellite Systems, developing algorithms and community for REALOP (1st CubeSAT mission @ UC Davis, launching June 2021)      
 
 * Computer Systems Lead(Past): Implemented Agile Methdologies while growing team culture and personally focusing on algorithm design     
 * Software Engineer(Past): Implemented PID control system for REALOP     
 
-:robot: Mentee at VMWare tasked to develop transformative business solutions with chatbots       
+🤖 Mentee at VMWare tasked to develop transformative business solutions with chatbots       
 * Responsible for NLP preprocessing model     
  
 
