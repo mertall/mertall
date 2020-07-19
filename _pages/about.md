@@ -38,7 +38,7 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
  * A great book of algorithms, each fundamental to many ML and DL concepts.      
 ### Inner Work - Robert Johnson     
  * A very interesting read about dreams and subconcious. The brain is very powerful.    
-### Thomas Calculus
+### Thomas' Calculus
  * Self Explantory 
 ### Siddartha - Hermann Hesse
  * The answer to all of life's problems is the forest and silence
