@@ -4,7 +4,7 @@ collection: teaching
 type: "MAT 017B (Biocalculus)"
 permalink: /teaching/la_ucdavis
 venue: "University of California-Davis, Department of Mathematics"
-date: 2020-01 - 2020-03
+date: 2020-01-01
 location: "Davis,California"
 ---
 
