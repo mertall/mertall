@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: "CalTeach Intern"
 permalink: /teaching/2015-spring-teaching-1
 venue: "NP3 Charter High School"
 date: 2019-01-01
