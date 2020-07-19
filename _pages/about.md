@@ -23,8 +23,8 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
 * Computer Systems Lead(Past): Implemented Agile Methdologies while growing team culture and personally focusing on algorithm design     
 * Software Engineer(Past): Implemented PID control system for REALOP     
 
-:robot: Mentee at VMWare developing transformative business solutions with chatbots       
-* Responsible for preprocessing model     
+:robot: Mentee at VMWare tasked to develop transformative business solutions with chatbots       
+* Responsible for NLP preprocessing model     
  
 
 
