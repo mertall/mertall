@@ -4,7 +4,7 @@ collection: publications
 excerpt: ''
 venue: 'In Progress'
 date: '2020-01-01'
-paperurl: 'http://mertall.github.io/files/Undergraduate_Thesis(4).pdf'
+paperurl: 'https://github.com/mertall/mertall/blob/master/files/QESA_Implementation(1).pdf'
 citation: 'Sarkar, Mridul. (In Progress). &quot;An Open Source Implementation of the Durr Hoyer Algorithm.&quot;.'
 ---
 An open source software library for Durr Hoyer Algorithm. Developed in collaboration with the QSharp Community.
