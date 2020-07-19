@@ -8,4 +8,4 @@ date: 2019-01-01
 location: "Davis, California"
 ---
 
-Assisted in 3rd grade math classes.
+Tutored 5 students in a given one hour period, transitioning between K-12 math on the fly.
