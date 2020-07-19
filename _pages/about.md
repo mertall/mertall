@@ -15,7 +15,7 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
 
 ## Experience     
 
-🧠 Research Assitant for Dr. Rishidev Chaudhuri's group.     
+🧠 Research Assitant for Dr. Rishidev Chaudhuri's group @ UC Davis Center for Neuroscience.     
 
 * Developed PCA algorithm for big and sparse data, analyzed and interpreted the meaning of cognition     
 
