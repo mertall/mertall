@@ -42,7 +42,8 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
  * Self Explantory 
 ### Siddartha - Hermann Hesse
  * The answer to all of life's problems is the forest and silence
- 
+### Fablehaven - Brandon Mull    
+ * Captured my imagination as a child, still an all time faovrite. When I met him at a signing I cried.   
 
 
 
