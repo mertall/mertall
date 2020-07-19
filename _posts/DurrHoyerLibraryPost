@@ -15,7 +15,7 @@ tags:
 ## Introduction
 
 Hello all! My name is Mridul Sarkar, and I am an undergraduate at University of California Davis studying Mathematics and Scientific Computation. I wanted to share with the community my experiences in learning about the Dürr–Høyer algorithim and creating a library for Q# implementing it. This project has pushed me and is still pushing me outside of my comfort zone, but learning Q# while slowly refining my quantum intution has been a rewarding experience. I would like to pass on what I have seen and understood in that time, as well as ask the community for feedback. I will likely be posting about this algorithm and library more as the library and my understanding continues developing.
-https://github.com/mridulsar/DurrHoyerLibrary.
+https://github.com/mridulsar/DurrHoyerLibrary.     
 ##The Dürr–Høyer Algorithm
 
 Say we have a table with N unsorted items where you want o find the minimul value stored in this table. The Dürr–Høyer Algorithm helps us solve this problem. It was originally proposed in "A quantum algorithm for finding the minimum" (1), where it was called the 'Quantum Minimum Searching Algorithm'. I'll summarize the main ideas below in case you don't have time to read the paper in all of its glory.
@@ -56,10 +56,10 @@ The QESA algorithm is a generalized Grover's search characterized by the followi
 We can visuailze our algorithm with a circuit design. Below is the QESA circuit.
 
 ### QESA circuit
-![QESA Circuit](QESA.JPG).
+![QESA Circuit](https://github.com/mertall/mertall/blob/master/images/QESA.JPG).
 
 Here is the QESA circuit treated as a gate with the intialization on qubits as mentioned above.
-![QESA](2-item-list0.gif).
+![QESA](https://github.com/mertall/mertall/blob/master/images/2-item-list0.gif).
 
 Lets break down whats going on here. We utilize the register we were working with earlier and apply a H transform, this is stated to simply be the Hadmard.
 ```
