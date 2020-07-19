@@ -29,9 +29,8 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
 🤖 Mentee at VMWare tasked to develop transformative business solutions with chatbots       
 * Responsible for NLP preprocessing model     
 
----
-## Mridul's Favorite Books
----
+### Favorite Books
+
 ### Climbing Mount Improbable - Richard Dawkins     
 
  * A great read if you need to be properly and wholly convinced of Evolution. Beautiful diagrams and concepts that stick in your imagination.     
