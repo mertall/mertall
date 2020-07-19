@@ -28,19 +28,19 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
  
  ## Mridul's Favorite Books
  
- Climbing Mount Improbable - Richard Dawkins     
+### Climbing Mount Improbable - Richard Dawkins     
  * A great read if you need to be properly and wholly convinced of Evolution. Beautiful diagrams and concepts that stick in your imagination.     
- 1984 - George Orwell    
+### 1984 - George Orwell    
  * Don't ever burn books.    
- Macbeth - Shakespeare    
+### Macbeth - Shakespeare    
  * To go looking for power will rue your own destruction.    
- Matrix Methods in Data Mining and Pattern Recognition - Lars Eden     
+### Matrix Methods in Data Mining and Pattern Recognition - Lars Eden     
  * A great book of algorithms, each fundamental to many ML and DL concepts.      
- Inner Work - Johnson     
+### Inner Work - Johnson     
  * A very interesting read about dreams and subconcious. The brain is very powerful.    
- Thomas Calculus
+### Thomas Calculus
  * Self Explantory 
- Siddartha - Hermann Hesse
+### Siddartha - Hermann Hesse
  * The answer to all of life's problems is the forest and silence
  
 
