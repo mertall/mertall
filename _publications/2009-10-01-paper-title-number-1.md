@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Literature Review: Applications of Quantum Exponential Searching Algorithm"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper examines the current state of research and application for the Quantum Exponential Seaching Algorithm'
 date: 2009-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://academicpages.github.io/files/QESA_Implementation(1).pdf'
+citation: 'Sarkar, Mridul. (In Progress). &quot;Applications of Quantum Exponential Searching Algorithm&quot; <i>Literature Review/i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper examines the current state of research and application for the Quantum Exponential Seaching Algorithm as proposed in "Tight bounds on quantum searching". There are many questions that arise when observing how the QESA has performed in various circumstances and in certain applications. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
