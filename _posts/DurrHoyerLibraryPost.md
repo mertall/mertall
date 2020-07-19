@@ -1,7 +1,7 @@
 ---
 title: 'Building a Q# library to find table minima: Part 1'
 date: 2020-07-19
-permalink: /DurrHoyerLibraryPost/
+permalink: /year-archive/DurrHoyerLibraryPost/
 tags:
   - library
   - algorithm
