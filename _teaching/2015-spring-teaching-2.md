@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "NP3 Charter High School"
+date: 2019-01-01
+location: "Sacramento, California"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Led and assisted in calculus and geometry classes of 30 with Ms. Laura Seiglitz. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
