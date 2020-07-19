@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mridul Sarkar"
 title_separator          : "-"
 name                     : &name "Mridul"
-description              : &description "Undergraduate Researcher"
+description              : &description ""
 url                      : https://mertall.github.io//mertall # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mertall.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Undergraduate Researcher"
-  avatar           : "https://github.com/mertall/mertall/tree/master/files/profile_pic.png"
+  avatar           : "https://github.com/mertall/mertall/blob/master/files/profile_pic.png"
   bio              : "Captivated by Machine Learning, Quantum Information, and Algorithm Design"
   location         : "Davis,CA"
   employer         :
