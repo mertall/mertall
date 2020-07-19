@@ -46,4 +46,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 Here is a link to my full CV if you are inclined:    
-https://github.com/mertall/mertall/blob/master/files/MridulSarkarResume(48).pdf
+'https://github.com/mertall/mertall/blob/master/files/MridulSarkarResume(48).pdf'
