@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Learning Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "MAT 017B (Biocalculus)"
+permalink: /teaching/la_ucdavis
+venue: "University of California-Davis, Department of Mathematics"
+date: 2020-01 - 2020-03
+location: "Davis,California"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Assisted Gal Dimand in her duties as Teaching Assistant. I provided in classroom support by answering questions, leading homework review, and fostering a comfortable and engaging environement.
