@@ -36,7 +36,7 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
  * To go looking for power will rue your own destruction.    
 ### Matrix Methods in Data Mining and Pattern Recognition - Lars Eden     
  * A great book of algorithms, each fundamental to many ML and DL concepts.      
-### Inner Work - Johnson     
+### Inner Work - Robert Johnson     
  * A very interesting read about dreams and subconcious. The brain is very powerful.    
 ### Thomas Calculus
  * Self Explantory 
