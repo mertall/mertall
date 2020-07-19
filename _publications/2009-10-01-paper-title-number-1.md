@@ -2,7 +2,6 @@
 title: "Literature Review: Applications of Quantum Exponential Searching Algorithm"
 collection: publications
 excerpt: 'This paper examines the current state of research and application for the Quantum Exponential Seaching Algorithm'
-date: 2020
 venue: 'In Progress'
 paperurl: 'http://academicpages.github.io/files/QESA_Implementation(1).pdf'
 citation: 'Sarkar, Mridul. (In Progress). &quot;Applications of Quantum Exponential Searching Algorithm&quot;'
