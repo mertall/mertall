@@ -35,8 +35,7 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
 * Aided in setting up MySQL python front end         
 
 🤖 Mentee of VMWare tasked to develop transformative business solutions with chatbots(Past)      
-* Responsible for NLP preprocessing model     
-
+* Responsible for proprietary NLP preprocessing model
 ### Favorite Books
 
 ### Climbing Mount Improbable - Richard Dawkins     
