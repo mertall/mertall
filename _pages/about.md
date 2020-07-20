@@ -49,7 +49,7 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
  
 ### Macbeth - Shakespeare
 
- * To go looking for power will rue your own destruction.    
+ * To go looking for power rues your own destruction.    
  
 ### Matrix Methods in Data Mining and Pattern Recognition - Lars Eden
 
@@ -61,7 +61,7 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
  
 ### Thomas' Calculus     
 
- * Self Explantory 
+ * Self Explanatory 
  
 ### Siddartha - Hermann Hesse    
 
@@ -69,7 +69,7 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
  
 ### Fablehaven - Brandon Mull     
 
- * Captured my imagination as a child, still an all time faovrite. When I met him at a signing I cried.    
+ * Captured my imagination as a child, still an all time faovrite. When I met him at a signing I cried, haha.    
 
 ---
 
