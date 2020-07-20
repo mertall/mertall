@@ -16,7 +16,7 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
 
 
 
-Mridul aspires to develop a novel quantum neural network. He is intrigued by the geometrical and analytical mathematical relationships of quantum many-body systems and neural networks. More specifically, principles of quantum mechanics inherently entangle the past and the future with the present. Treating time as quantum many-body system, Mridul believes it can be modeled with a quantum neural network. The QNN acts an object to evaluate multiple paths between bodies in space-time to then find the most optimal path.
+Mridul aspires to develop a novel quantum neural network. He is intrigued by the geometrical and analytical mathematical relationships of quantum many-body systems and neural networks. More specifically, principles of quantum mechanics inherently entangle the past and the future with the present. Treating time as quantum many-body system, a neural network can provide for thorough and deep analysis of the entanglement of the past, present, and future.
 
 ---
 
