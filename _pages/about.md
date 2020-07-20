@@ -19,7 +19,7 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
 ## Experience     
 
 
-📡  Technical Advisor at Space and Satellite Systems, developing algorithms and community for REALOP (1st CubeSAT mission @ UC Davis, launching June 2021)      
+📡  Technical Advisor of Space and Satellite Systems, developing algorithms and community for REALOP (1st CubeSAT mission @ UC Davis, launching June 2021)      
 
 * Computer Systems Lead(Past): Implemented Agile Methdologies while growing team culture and personally focusing on algorithm design     
 * Software Engineer(Past): Implemented PID control system for REALOP     
@@ -28,20 +28,20 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
 
 * The only undergraduate run community exploring the black box at UC Davis    
 
-🧠 Research Assitant for Dr. Rishidev Chaudhuri's group @ UC Davis Center for Neuroscience(Past)    
+🧠 Research Assistant of Dr. Rishidev Chaudhuri's group @ UC Davis Center for Neuroscience(Past)    
 
 * Developed PCA algorithm for big and sparse data, analyzed and interpreted the meaning of cognition     
 
 * Aided in setting up MySQL python front end         
 
-🤖 Mentee at VMWare tasked to develop transformative business solutions with chatbots(Past)      
+🤖 Mentee of VMWare tasked to develop transformative business solutions with chatbots(Past)      
 * Responsible for NLP preprocessing model     
 
 ### Favorite Books
 
 ### Climbing Mount Improbable - Richard Dawkins     
 
- * A great read if you need to be properly and wholly convinced of Evolution. Beautiful diagrams and concepts that stick in your imagination.     
+ * A great read if you need to be properly and wholey convinced of Evolution. Beautiful diagrams and concepts that stick in your imagination.     
  
 ### 1984 - George Orwell
 
