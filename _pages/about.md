@@ -12,7 +12,7 @@ Mridul is an undergraduate at UC Davis (2021) with concentration in Math and Sci
 
 
 
-Currently, Mridul is focusing on development of open source quantum algorithms and researching mathematics behind quantum machine learning. He has contributed to various open repositories including the flight OS for the cubeSAT REALOP, Pennylane's quantum machine learning repo, and recently numpy's linalg module. He aspires to develop a novel quantum neural network. Principles of quantum mechanics inherently entangle the past and the future with the present. This relationship can be modeled with a quantum neural network to act as an object to evaluate multiple paths in space-time to then find the most optimal path.
+Currently, Mridul is focusing on development of open source quantum algorithms and researching mathematics behind quantum machine learning. He has contributed to various open repositories including the flight OS for the cubeSAT REALOP, Pennylane's quantum machine learning repo, and recently he began developing for numpy's linalg module. He aspires to develop a novel quantum neural network. Principles of quantum mechanics inherently entangle the past and the future with the present. This relationship can be modeled with a quantum neural network to act as an object to evaluate multiple paths in space-time to then find the most optimal path.
 
 ---
 
