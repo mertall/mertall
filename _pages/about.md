@@ -16,7 +16,7 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
 
 
 
-Mridul aspires to develop a novel quantum neural network. He is intrigued by the geometrical and analytical mathematical relationships of quantum many-body systems and neural networks. More specifically, the neural network will use principles of quantum mechanics that inherently entangle the past and the future with the present. If you want to talk more about my research send an email to mridu1399 at gmail dot com
+Mridul aspires to develop a novel quantum neural network. He is intrigued by the geometrical and analytical mathematical relationships of quantum many-body systems and neural networks. More specifically, the neural network will use principles of quantum mechanics that inherently entangle the past and the future with the present. If you want to talk more about my research send an email to mridul1399 at gmail dot com
 
 ---
 
