@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Who am I?"
+excerpt: "Who am I?"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,18 +15,23 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
 
 ## Experience     
 
-🧠 Research Assitant for Dr. Rishidev Chaudhuri's group @ UC Davis Center for Neuroscience.     
-
-* Developed PCA algorithm for big and sparse data, analyzed and interpreted the meaning of cognition     
-
-* Aided in setting up MySQL python front end         
 
 📡  Technical Advisor at Space and Satellite Systems, developing algorithms and community for REALOP (1st CubeSAT mission @ UC Davis, launching June 2021)      
 
 * Computer Systems Lead(Past): Implemented Agile Methdologies while growing team culture and personally focusing on algorithm design     
 * Software Engineer(Past): Implemented PID control system for REALOP     
 
-🤖 Mentee at VMWare tasked to develop transformative business solutions with chatbots       
+👪  Officer of AI Society @ UC Davis   
+
+* The only undergraduate run community exploring the black box at UC Davis    
+
+🧠 Research Assitant for Dr. Rishidev Chaudhuri's group @ UC Davis Center for Neuroscience(Past)    
+
+* Developed PCA algorithm for big and sparse data, analyzed and interpreted the meaning of cognition     
+
+* Aided in setting up MySQL python front end         
+
+🤖 Mentee at VMWare tasked to develop transformative business solutions with chatbots(Past)      
 * Responsible for NLP preprocessing model     
 
 ### Favorite Books
