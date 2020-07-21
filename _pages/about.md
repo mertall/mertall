@@ -35,7 +35,7 @@ Mridul aspires to develop a novel quantum neural network. He is intrigued by the
 
 🧠 Research Assistant of Dr. Rishidev Chaudhuri's group @ UC Davis Center for Neuroscience(Past)    
 
-* Developed PCA algorithm for big and sparse data, analyzed and interpreted the meaning of cognition     
+* Developed PCA algorithm for big and sparse proprietary data, analyzed and interpreted the meaning of cognition     
 
 * Aided in setting up MySQL python front end         
 
