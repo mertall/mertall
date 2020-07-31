@@ -1,5 +1,5 @@
 ---
-permalink: /home/
+permalink: /
 title: "Background"
 excerpt: "Background"
 author_profile: true
