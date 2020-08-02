@@ -39,9 +39,9 @@ Mridul aspires to develop a novel quantum neural network. He is intrigued by the
 
 * Aided in setting up MySQL python front end         
 
-🤖 Mentee of VMWare tasked to develop transformative business solutions with chatbots(Past)   
+🤖 Mentee of VMWare(Past)   
 
-* Developed proprietary NLP preprocessing model for a proprietary dataset
+* NDA
 
 ### Favorite Books
 
