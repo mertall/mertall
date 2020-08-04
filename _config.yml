@@ -18,7 +18,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 5
 future                   : true
-read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -102,10 +102,10 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/m161803398875s/"
   orcid            : 
   pinterest        :
-  soundcloud       :
+  soundcloud       : "https://soundcloud.com/mridul-sarkar"
   stackoverflow    : "10807351/mridul"
   steam            :
   tumblr           :
