@@ -17,13 +17,7 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
 
 Mridul aspires to develop a novel quantum neural network. He is intrigued by the geometric and analytic mathematical relationships of quantum many-body systems and neural networks. If you want to talk more about my research send an email to mridul1399 at gmail dot com
 
-## A poem I wrote when I was overwhelmed with life
-### eyes full of passion hands filled with burden    
-### neck crook with fervor back taught with decision     
-### We all continue our journey with no end in sight     
-### all we look for is our guiding light     
-### open your eyes wider close your fists tighter     
-### continue on your endeavor 
+ 
 ---
 
 ## Experience     
@@ -48,7 +42,15 @@ Mridul aspires to develop a novel quantum neural network. He is intrigued by the
 🤖 Mentee of VMWare(Past)   
 
 * NDA
-
+---
+## A poem I wrote
+### eyes full of passion hands filled with burden    
+### neck crook with fervor back taught with decision     
+### We all continue our journey with no end in sight     
+### all we look for is our guiding light     
+### open your eyes wider close your fists tighter     
+### continue on your endeavor
+---
 ### Favorite Books
 
 ### Climbing Mount Improbable - Richard Dawkins     
