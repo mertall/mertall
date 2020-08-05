@@ -6,14 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-### eyes full of passion hands filled with burden    
-### neck crook with fervor back taught with decision     
-### We all continue our journey with no end in sight     
-### all we look for is our guiding light     
-### open your eyes wider close your fists tighter     
-### continue on your endeavor       
-
+---      
 Mridul is an undergraduate at UC Davis (2021) with concentration in Math and Scientific Computation and a minor in Education. He enjoys coding, reading, writing, and thinking. His research interests include quantum machine learning, quantum algorithms, and quantum information theory. 
 
 
@@ -24,6 +17,13 @@ Currently, Mridul is focusing on development of open source quantum algorithms a
 
 Mridul aspires to develop a novel quantum neural network. He is intrigued by the geometric and analytic mathematical relationships of quantum many-body systems and neural networks. If you want to talk more about my research send an email to mridul1399 at gmail dot com
 
+## A poem I wrote when I was overwhelmed with life
+### eyes full of passion hands filled with burden    
+### neck crook with fervor back taught with decision     
+### We all continue our journey with no end in sight     
+### all we look for is our guiding light     
+### open your eyes wider close your fists tighter     
+### continue on your endeavor 
 ---
 
 ## Experience     
