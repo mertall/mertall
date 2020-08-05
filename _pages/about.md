@@ -42,6 +42,7 @@ Mridul aspires to develop a novel quantum neural network. He is intrigued by the
 🤖 Mentee of VMWare(Past)   
 
 * NDA
+
 ---
 ### A poem I wrote
 #### eyes full of passion hands filled with burden    
