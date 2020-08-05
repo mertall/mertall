@@ -43,13 +43,13 @@ Mridul aspires to develop a novel quantum neural network. He is intrigued by the
 
 * NDA
 ---
-## A poem I wrote
-### eyes full of passion hands filled with burden    
-### neck crook with fervor back taught with decision     
-### We all continue our journey with no end in sight     
-### all we look for is our guiding light     
-### open your eyes wider close your fists tighter     
-### continue on your endeavor
+### A poem I wrote
+#### eyes full of passion hands filled with burden    
+#### neck crook with fervor back taught with decision     
+#### We all continue our journey with no end in sight     
+#### all we look for is our guiding light     
+#### open your eyes wider close your fists tighter     
+#### continue on your endeavor
 ---
 ### Favorite Books
 
