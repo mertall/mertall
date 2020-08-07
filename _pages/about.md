@@ -44,13 +44,35 @@ Mridul aspires to develop a novel quantum neural network. He is intrigued by the
 * NDA
 
 ---
-### A poem I wrote
-#### eyes full of passion hands filled with burden    
-#### neck crook with fervor back taught with decision     
-#### We all continue our journey with no end in sight     
-#### all we look for is our guiding light     
-#### open your eyes wider close your fists tighter     
-#### continue on your endeavor
+### My journey    
+An atomic family miles from those they love    
+I was given an opportunity     
+to carry my family’s name     
+No other choice     
+this is the American game     
+Continually looking for a path   
+I am from the number zero    
+White man was my superhero    
+
+This journey is my own    
+This took a long time to learn    
+The trees dancing to the sound of the breeze    
+The sun beating at its own ease   
+A bee buzzing to their own tune    
+pollinating for the next bloom    
+
+We all continue with    
+eyes full of passion    
+hands filled with burden    
+neck crook with fervor    
+back taught with decision    
+
+I continue my journey with no end in sight    
+all I look for is my guiding light    
+I open my eyes wider    
+I close my fists tighter    
+I continue on my endeavor   
+
 ---
 ### Favorite Books
 
