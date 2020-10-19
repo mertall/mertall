@@ -22,8 +22,13 @@ Mridul aspires to develop a novel quantum neural network. He is intrigued by the
 
 ## Experience     
 
+:computer: CEO of quantumRatio       
 
-📡  Technical Advisor of Space and Satellite Systems, developing algorithms and community for REALOP (1st CubeSAT mission @ UC Davis, launching June 2021)      
+* https://quantumratio.github.io/
+
+📡 Computer Systems Co-Lead of Space and Satellite Systems, DevOps, Team Management, and Business Developement for REALOP (1st CubeSAT mission @ UC Davis, launching June 2021)         
+
+* Technical Advisor(Past): Developed algorithms and community.       
 
 * Computer Systems Lead(Past): Implemented Agile Methdologies while growing team culture and personally focusing on algorithm design     
 
