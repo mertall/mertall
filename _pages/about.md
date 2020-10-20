@@ -7,15 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---      
-Mridul is an undergraduate at UC Davis (2021) with concentration in Math and Scientific Computation and a minor in Education. He enjoys coding, reading, writing, and thinking. His research interests include quantum machine learning, quantum algorithms, and quantum information theory. 
-
-
-
-Currently, Mridul is focusing on development of open source quantum algorithms and researching mathematics behind quantum machine learning. He has contributed to various open repositories.
-
-
-
-Mridul aspires to develop a novel quantum neural network. He is intrigued by the geometric and analytic mathematical relationships of quantum many-body systems and neural networks. If you want to talk more about my research send an email to mridul1399 at gmail dot com
+Mridul is an undergraduate at UC Davis (2021) with concentration in Math and Scientific Computation and a minor in Education. He enjoys coding, reading, writing, and thinking. His research interests include classical and quantum algorithms, bias within algorithms, and educationally motivated technology.
 
  
 ---
