@@ -2,10 +2,10 @@
 title: "An Open Source Implementation of the Durr Hoyer Algorithm"
 collection: publications
 excerpt: ''
-venue: 'In Progress'
+venue: ''
 date: '2020-01-01'
 paperurl: 
-citation: 'Sarkar, Mridul. (In Progress). &quot;An Open Source Implementation of the Durr Hoyer Algorithm.&quot;.'
+citation: 'Sarkar, Mridul. In Progress. &quot;An Open Source Implementation of the Durr Hoyer Algorithm.&quot;.'
 ---
 An open source software library for Durr Hoyer Algorithm. Developed in collaboration with the QSharp Community.
 
