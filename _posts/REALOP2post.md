@@ -21,3 +21,5 @@ What better way to hash out my ideas than write a blog post?
 
    The analysis of this data can be done with machine learning models in order to predict future trends of the information coming from the cubesat. One idea that I am excited for is a string of cubesats in LEO.This string would allow for the information to be a bit more accurate and representative of a longer period of time. The scientists who I had a chance to speak with stressed the importance of
 multiple observations of the same area, this leads to a better picture of our atmosphere.
+
+  I enjoy brainstorming new ideas and generating solutions for interdisciplenary fields. I am excited to see how this upcoming mission goes and look forward to eventually seeing it go into space. 
