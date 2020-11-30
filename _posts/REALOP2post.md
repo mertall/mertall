@@ -1,7 +1,7 @@
 ---
 title: 'CubeSATs for Atmospheric Scientists'
 date: 2020-30-11
-permalink: /posts/CubeSATs_for_Atmospheric_Scientists/
+permalink: /posts/CubeSATforAtmosphericScientists/
 tags:
   - environmental science
   - cubesats
