@@ -14,7 +14,7 @@ Mridul is an undergraduate at UC Davis (2021) with concentration in Math and Sci
 
 ## Experience     
 
-:floppy_disk: CEO of quantumRatio       
+ CEO of quantumRatio       
 
 * https://quantumratio.github.io/
 
