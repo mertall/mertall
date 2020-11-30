@@ -17,10 +17,7 @@ What better way to hash out my ideas than write a blog post?
 
    How can cubesats help atmospheric scientists?
     
-   Cubesats enable imagery and sensors in LEO. This provides an intimate view of the earth and surrounding atmosphere. Atmospheric scientists at UC Davis want to observe clouds, specifically their structure. In addition radiation leaving the Earth and specific metrics such as pollution content and ocean productivity. These are all factors that intertwine to give a picture of the state of our Earth. uch information coming directly from LEO through a cubesat, realtime, aids in delivering a clear picture about topics such as global warming.
+   Cubesats enable imagery and sensors in LEO. This provides an intimate view of the earth and surrounding atmosphere. Atmospheric scientists at UC Davis want to observe clouds, specifically their structure. In addition radiation leaving the Earth and specific metrics such as pollution content and ocean productivity. These are all factors that intertwine to give a picture of the state of our Earth. Much information coming directly from LEO through a cubesat, realtime, aids in delivering a clear picture about topics such as global warming.
 
    The analysis of this data can be done with machine learning models in order to predict future trends of the information coming from the cubesat. One idea that I am excited for is a string of cubesats in LEO.This string would allow for the information to be a bit more accurate and representative of a longer period of time. The scientists who I had a chance to speak with stressed the importance of
 multiple observations of the same area, this leads to a better picture of our atmosphere.
-
-   I am excited to see how the proposal plans out and the evolution of the mission idea I have. I am motivated to leave behind a mission that will not only push the engineers on the project but
-also contribute back to society's well being.
