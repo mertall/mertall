@@ -19,13 +19,13 @@ Skills
 ======
 * Mathematical Modeling
   * Python
-  * Numpy
+  * Numerical Analysis
   * Matlab
   * Algorithm Design
 * Machine Learning
-  * ScikitLearn
-  * Tensorflow
-  * Keras
+  * NLP
+  * Deep Learning
+  * Quantum ML
 * Quantum Computing
   * Qsharp
   * Qiskit
@@ -45,4 +45,6 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+  
 
