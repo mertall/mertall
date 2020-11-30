@@ -16,7 +16,7 @@ Mridul is an undergraduate at UC Davis (2021) with concentration in Math and Sci
 
  CEO of quantumRatio       
 
-* https://quantumratio.github.io/
+* [company website](https://quantumratio.github.io/)
 
 📡 Computer Systems Co-Lead of Space and Satellite Systems, DevOps for REALOP (1st CubeSAT mission @ UC Davis, launching June 2021)         
 
