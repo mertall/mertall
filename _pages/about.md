@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---      
-Mridul is an undergraduate at UC Davis (2021) with concentration in Math and Scientific Computation and a minor in Education. He enjoys coding, reading, writing, and thinking. His research interests include classical and quantum algorithms, bias within algorithms, and educationally motivated technology.
+Mridul is an undergraduate at UC Davis (2021) with concentration in Math and Scientific Computation and a minor in Education. They enjoy coding, reading, writing, and thinking. Their technical interests include classical and quantum algorithms, bias within algorithms, and educationally motivated technology. In addition, they enjoy managing projects and developing open source software.
 
  
 ---
