@@ -7,45 +7,26 @@ redirect_from:
   - /about/
   - /about.html
 ---      
-Mridul is an undergraduate at UC Davis (2021) with concentration in Math and Scientific Computation and a minor in Education. They enjoy coding, reading, writing, and thinking. Their technical interests include classical and quantum algorithms, bias within algorithms, and educationally motivated technology. In addition, they enjoy managing projects and developing open source software.
+Mridul is an undergraduate at University of California - Davis (2021) with concentration in Mathematics and Scientific Computation. Mridul has proved his problem solving acumen through continual practice of Mathematical Modeling, Design Thinking, and Communication in each of his professional and research experiences. In addition, he picked up coding as a side hobby his Freshman year of college- in under 3 years he has learnt 8 languages contributing to projects which each of them. Mridul's mind works to solve problems with creativty and logic while his heart plays to deliver meaningful work which provides applicable benefits.     
+
+Currently, Mridul is looking for a role within an organization with a high ceiling for growth and comfortability with experimental and disruptive ideas.     
 
  
 ---
 
-## Experience     
+## My Experience
 
- Founder of quantumRatio       
+Currently Tech Lead at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/)    
+* Computer Vision and Automated CubeSat Operating System research accepted to UC (University of California) Davis Undergraduate Research Conference.    
+* Space and Satellite Systems is funded by The Green Iniatiave Fund and NASA to deliver the first UC Davis CubeSat. Our defintion for success is recieving Earth Science data for Atmospheric Scientists at UC Davis- propelling research of Global Warming. I began my journey as a Software Engineer attending the [CubeSAT Conference of 2019](https://www.linkedin.com/in/m161803398875s/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACPUQp8BFbg_2SYAMZP5IzlGJQriLrFAYAM,1589568728711)/). After talking with NASA, big and small CubeSat manufacturers, and other schools I gained and provided excellent insight into the strengths and weaknesses of our CubeSats technical systems. Follwing this conference I developed autonomous control systems and eventually earned a position as Tech Lead. I was given the opportunity to present in front of NASA engineers and researchers during the [Preliminary Design Review](https://docs.google.com/presentation/d/1vQKaiEhmzjhkJINsw5upEErIL7w0eli49ZhPyFmvKlU/edit?usp=sharing) for the CubeSat. After delving deep into the technical system I decided to focus attention on managing human capital. In accordance I developed the [Agile Development Plan](https://docs.google.com/document/d/1HTuV9DAut5XUEbByYMVwbrtg67TxJGHilfT-uTqb6LQ/edit?usp=sharing) with help from Space and Satellite System's president. Most recently the CubeSat work I have been doing for almost 3 years ultimately became topics for research which were accepted to UC Davis. In addition I briefly took a few months to analyze overall computational effeciency of the system. I was able to reduce system time complexity by by O(N^2) through leveraging OOP and discarding multiple for loops that were being computed every half second.     
 
-* [company website](https://quantumratio.github.io/)
+I was a Full Stack Engineer (2 month Contract) working with a company overseas. I consulted for their technical systems and eventually developed a $20,000 Peer to Peer LAMP Full Stack with Node.js, Unity, AWS, and C/C# (NDA).        
 
-📡 Computer Systems Co-Lead of Space and Satellite Systems, DevOps for REALOP (1st CubeSAT mission @ UC Davis, launching June 2021)         
+I was a Machine Learning Research Assitant of [Dr. Rishidev Chaudhuri's Research Group @ UC Davis Center for Neuroscience](https://chaudhurilab.faculty.ucdavis.edu/people/). I increased the rate of computation for predictive lab results- mapping rats' spatial movement to brain activity, due to development of Big Data Pipeline. Open sourced [Sparse PCA Backend](https://github.com/mridulsar/PCA).       
+    
+I was a AI Developer at VMware given an opportunity with [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/) utilizing CoreNLP, Spacy, NLTK, BERT, and SQUAD2.0 to develop a business centric Question Answer Bot (NDA).    
 
-* Technical Advisor(Past): Developed algorithms and community.       
-
-* Computer Systems Lead(Past): Implemented Agile Methdologies while growing team culture and personally focusing on algorithm design     
-
-* Software Engineer(Past): Implemented PID control system for REALOP     
-
-[Agile Development Plan](https://docs.google.com/document/d/1HTuV9DAut5XUEbByYMVwbrtg67TxJGHilfT-uTqb6LQ/edit?usp=sharing)        
-[Preliminary Design Review 2019](https://docs.google.com/presentation/d/1vQKaiEhmzjhkJINsw5upEErIL7w0eli49ZhPyFmvKlU/edit?usp=sharing)        
-[CubeSAT conference 2019](https://www.linkedin.com/in/m161803398875s/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACPUQp8BFbg_2SYAMZP5IzlGJQriLrFAYAM,1589568728711)/)       
-
-
-👪  Officer of AI Society @ UC Davis   
-
-* The only undergraduate run community exploring the black box at UC Davis    
-
-
-🧠 Research Assistant of Dr. Rishidev Chaudhuri's group @ UC Davis Center for Neuroscience(Past)    
-
-* Developed PCA algorithm for big and sparse proprietary data, analyzed and interpreted the meaning of cognition     
-[Open Source sparse and dense PCA](https://github.com/mertall/PCA)
-
-* Aided in setting up MySQL python front end         
-
-🤖 Mentee of VMWare(Past)   
-
-* NDA
+For a detailed list of my research experiences please send me an email at mridulsarkarr at gmail dot com.
 
 ---
 ### My journey    
@@ -56,7 +37,7 @@ No other choice
 this is the American game     
 Continually looking for a path   
 I am from the number zero    
-White man was my superhero    
+I am no longer looking for a hero   
 
 This journey is my own    
 This took a long time to learn    
