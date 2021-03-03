@@ -17,7 +17,7 @@ Education
 
 Research
 ======
-* [Minimum of unsorted database in O(log(N))]((https://github.com/mertall/DurrHoyerLibrary) through algorithm developed by Dr. Durr and Dr. Hoyer. Developed a Open Source Software Library collaborating with Microsoft's Qsharp Community, research accepted to UC Davis Undergraduate Research Conference.   
+* [Minimum of unsorted database in O(log(N))](https://github.com/mertall/DurrHoyerLibrary) through algorithm developed by Dr. Durr and Dr. Hoyer. Developed a Open Source Software Library collaborating with Microsoft's Qsharp Community, research accepted to UC Davis Undergraduate Research Conference.   
 
 * [REALOP 2](http://bitly.ws/bSXK) is my novel CubeSat proposal to track and store changes in the Earth's atmosphere and surface delivering unmatched resolution and metrics of the Earth's health. This mission expands on REALOP I, the first mission from Space and Satellite Systems.      
 
