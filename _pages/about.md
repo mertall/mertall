@@ -13,7 +13,7 @@ Mridul came into college as a Microbiology major and took Engineering Calculus o
 
 After building gaming and workstation computers for friends throughout highschool, Mridul picked up programming as a side hobby his Freshman year of college and created a LED array which utilized FFT and a Matlab GUI to change colors based on a song and its tempo while providing an easy to use interface.     
 
-During his first data structures class during his sophomore year, Mridul questioned the professor this: "Why do we only assign bits a value of 0 or 1, rather why not utilize all numbers between 0 and 1. This would allow for an infinite number of data points to be stored, theoretically." During this time Mridul, a sophomore, had no clue what quantum computing was and how it worked- more notably he had no understanding of Electrical Engineering.     
+During his first data structures class during his sophomore year, Mridul questioned the professor this: "Why do we only assign bits a value of 0 or 1, rather why not utilize all numbers between 0 and 1. This would allow for an infinite number of data points to be stored, theoretically." During this time Mridul had no clue what quantum computing was and how it worked- more notably he had no understanding of Electrical Engineering.     
 
 Mridul, closing off his sophomore year, saw a beautiful parallel between inductive proofs and recursion while learning inductive proofs for the first time in MAT 108, Introduction to Abstract Mathematics. After discussion with his MAT 108 TA about the parallels between induction and recursion Mridul was given challenging proofs which he later found to be similar to the [Infinite Hotel Paradox](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel).     
 
