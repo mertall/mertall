@@ -17,7 +17,7 @@ During his first data structures class during his sophomore year, Mridul questio
 
 Mridul, closing off his sophomore year, saw a beautiful parallel between inductive proofs and recursion while learning inductive proofs for the first time in MAT 108, Introduction to Abstract Mathematics. After discussion with his MAT 108 TA about the parallels between induction and recursion Mridul was given challenging proofs which he later found to be similar to the [Infinite Hotel Paradox](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel).     
 
-In under 3 years he has learnt 8 languages contributing to projects utlizing each language. Mridul has also read textbooks and industry sources regarding core principles in full stack engineering and computational theory.    
+In under 3 years he has learnt 8 computer languages-contributing to projects with each language. Mridul has also read textbooks and industry sources regarding core principles in full stack engineering and computational theory.    
 
 Mridul's mind works to solve problems with creativty and logic while his heart plays to deliver meaningful work which provides applicable benefits. Currently, he is looking for a role within an organization with a high ceiling for growth and comfortability with experimental and disruptive ideas.     
 
