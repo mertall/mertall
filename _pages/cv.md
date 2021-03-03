@@ -62,14 +62,14 @@ Skills
   * Numerical Analysis
   * Algorithm Analysis 
   * Machine Learning 
-   * Autonomous Systems 
-   * NLP
-   * Deep Learning
-   * Quantum Machine Learning
+    * Autonomous Systems 
+    * NLP
+    * Deep Learning
+    * Quantum Machine Learning
   * Quantum Computing
-   * Quantum Infomration
-   * Quantum Algorithms
-   * Hybrid Quantum and Classical Systems
+    * Quantum Infomration
+    * Quantum Algorithms
+    * Hybrid Quantum and Classical Systems
 * Delivering the Solution
   * MVP/Agile/DevOps/Waterfall
   * Accomdated and worked around language barriers (Spanish, German, and Arabic)
