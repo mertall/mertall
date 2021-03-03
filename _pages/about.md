@@ -26,7 +26,7 @@ I was a Machine Learning Research Assitant of [Dr. Rishidev Chaudhuri's Research
     
 I was a AI Developer at VMware given an opportunity with [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/) utilizing CoreNLP, Spacy, NLTK, BERT, and SQUAD2.0 to develop a business centric Question Answer Bot (NDA).    
 
-For a detailed list of my research experiences please send me an email at mridulsarkarr at gmail dot com.
+A page detailing all of my [work](https://mertall.github.io/mertall//cv/).
 
 ---
 ### My journey    
@@ -67,7 +67,7 @@ I continue on my endeavor
  
 ### 1984 - George Orwell
 
- * Don't ever burn books. 
+ * Big Brother is watching. 
  
 ### Macbeth - Shakespeare
 
