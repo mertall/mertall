@@ -24,7 +24,7 @@ I was a Full Stack Engineer (2 month Contract) working with a company overseas. 
 
 I was a Machine Learning Research Assitant of [Dr. Rishidev Chaudhuri's Research Group @ UC Davis Center for Neuroscience](https://chaudhurilab.faculty.ucdavis.edu/people/). I increased the rate of computation for predictive lab results- mapping rats' spatial movement to brain activity, due to development of Big Data Pipeline. Open sourced [Sparse PCA Backend](https://github.com/mridulsar/PCA).       
     
-I was a AI Developer at VMware given an opportunity with [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/) utilizing CoreNLP, Spacy, NLTK, BERT, and SQUAD2.0 to develop a business centric Question Answer Bot (NDA).    
+I was a AI Developer at VMware earning an opportunity with [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/) due to my past experience with text pre processing and NLP. Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA).    
 
 A page detailing all of my [work](https://mertall.github.io/mertall//cv/).
 
@@ -36,7 +36,7 @@ to carry my family’s name
 No other choice     
 this is the American game     
 Continually looking for a path   
-I am from the number zero    
+I am from the number [zero](https://www.google.com/search?client=firefox-b-1-d&ei=XQxAYPfABMP5-gSJ1bXQAw&q=+Brahmagupta+zero&oq=+Brahmagupta+zero&gs_lcp=Cgdnd3Mtd2l6EAMyBQguEJMCMgYIABAHEB4yBggAEAcQHjIICAAQBxAFEB4yBggAEAgQHjIGCAAQBxAeOgcIABCwAxBDOgcILhCwAxBDOgQIABBDOggIABCxAxCDAToHCAAQsQMQQzoFCAAQsQM6AggAOgcILhANEJMCUL9fWNqAAWCcigFoAnACeACAAfcDiAHACpIBCzAuMy4wLjEuMC4xmAEAoAEBoAECqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz&ved=0ahUKEwi345zllJXvAhXDvJ4KHYlqDToQ4dUDCAw&uact=5)    
 I am no longer looking for a hero   
 
 This journey is my own    
@@ -63,7 +63,7 @@ I continue on my endeavor
 
 ### Climbing Mount Improbable - Richard Dawkins     
 
- * A great read if you need to be properly and wholey convinced of Evolution. Beautiful diagrams and concepts that stick in your imagination.     
+ * A great read if you want to be properly and wholey convinced of Evolution. Beautiful diagrams and real life examples that somehow are in both your right and left brain.     
  
 ### 1984 - George Orwell
 
@@ -75,23 +75,23 @@ I continue on my endeavor
  
 ### Matrix Methods in Data Mining and Pattern Recognition - Lars Eden
 
- * A great book of algorithms, each fundamental to many ML and DL concepts.   
+ * A great book of algorithms, each fundamental to many technical systems.   
  
 ### Inner Work - Robert Johnson     
 
- * A very interesting read about dreams and subconcious. The brain is very powerful.   
+ * A very interesting read about dreams and subconcious. The brain is very powerful yet pliable.    
  
 ### Thomas' Calculus     
 
- * Self Explanatory 
+ * I truly fell in love with Calculus and its applications when I began college as a Microbiology Major.    
  
 ### Siddartha - Hermann Hesse    
 
- * The answer to all of life's problems is the forest and silence    
+ * The answer to all of life's problems is the forest, reflection, and grit.   
  
 ### Fablehaven - Brandon Mull     
 
- * Captured my imagination as a child, still an all time faovrite. When I met him at a signing I cried, haha.    
+ * A book about magical creatures in a forest perserve which you can see after consuming magical cow milk. Captured my imagination as a child, still an all time faovrite. When I met Brandon Mull at a signing I cried out of joy.  
 
 ---
 
