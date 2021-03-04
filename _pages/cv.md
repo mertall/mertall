@@ -70,7 +70,7 @@ Skills
     * Deep Learning
     * Quantum Machine Learning
   * Quantum Computing
-    * Quantum Infomration
+    * Quantum Information
     * Quantum Algorithms
     * Hybrid Quantum and Classical Systems
 * Delivering the Solution
