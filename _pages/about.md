@@ -36,7 +36,7 @@ Currently Tech Lead for REALOP I at [Space and Satellite Systems](https://www.uc
 
 I was a Full Stack Engineer (2 month Contract) working with a company overseas. I consulted for their technical system streaming between a 360 camera and VR headset. Eventually I developed a $20,000 Peer to Peer LAMP Full Stack with Node.js, Unity, AWS, and C/C# (NDA).        
 
-I was a Machine Learning Research Assitant of [Dr. Rishidev Chaudhuri's Research Group @ UC Davis Center for Neuroscience](https://chaudhurilab.faculty.ucdavis.edu/people/). I increased the rate of computation for predictive lab results- mapping rats' spatial movement to brain activity, due to development of Big Data Pipeline. Open sourced [Sparse PCA Backend](https://github.com/mridulsar/PCA).       
+I was a Machine Learning Research Assistant of [Dr. Rishidev Chaudhuri's Research Group @ UC Davis Center for Neuroscience](https://chaudhurilab.faculty.ucdavis.edu/people/). I increased the rate of computation for predictive lab results- mapping rats' spatial movement to brain activity, due to development of Big Data Pipeline. Open sourced [Sparse PCA Backend](https://github.com/mridulsar/PCA).       
     
 I was a AI Developer at VMware earning an opportunity with [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/) due to my past experience with text pre processing and NLP. Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA).    
 
