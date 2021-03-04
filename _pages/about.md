@@ -56,7 +56,7 @@ Eventually developed a $20,000 Peer to Peer LAMP Full Stack with Node.js, Unity,
 Increased the rate of computation for predictive lab results- mapping rats' spatial movement to brain activity, due to development of Big Data Pipeline        
 Open sourced [Sparse PCA Backend](https://github.com/mridulsar/PCA)       
     
-### AI Developer mentee at VMware earning an opportunity with [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/)     
+### AI Developer mentee at VMware | Mentor: [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/)     
 Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA)       
 
 ---
