@@ -54,30 +54,16 @@ Eventually developed a $20,000 Peer to Peer LAMP Full Stack with Node.js, Unity,
 Open sourced [Sparse PCA Backend](https://github.com/mridulsar/PCA)       
     
 #### AI Developer mentee at VMware earning an opportunity with [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/) due to past experience with text pre processing and NLP         
-Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA)          
+Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA)     
+
+---
 
 ### A page detailing other [work and skills](https://mertall.github.io/mertall//cv/)         
 
----
-### Microbiologist turned Mathematician
-
-Came into college as a Microbiology major with ambition to become a Medical Doctor           
-During the first quarter opted out of taking a easier Life Sciences Calculus series and opted for an Engineering Calculus series on a simple pretense-to push concieved notions of what I intecually can or cannot do         
-
-This was an intimdating time- there was a great struggle with Math since 6th grade along with focus on college althletics           
-After success in college Calculus, made it a point to do the things that are found to be intellectually challenging         
-This attitude contributed to the decision to switch major to Math       
-Have found this attitude allows for boundless collaboration on projects- I am not considered an expert but rather someone who is willing to deeply and quickly learn                
-
-Hope to one day be regarded as an expert while continuing to intellectually challenge myself     
-After leading a few projects in line with how I served as captain for my rugby team, came across the parallel in my methdology and idea of a [servant leader](https://www.forbes.com/sites/forbescoachescouncil/2020/03/11/traditional-leadership-vs-servant-leadership/?sh=625ff0d4451e)       
-Continue to practice and reflect on servitude to others and their success        
-
-In under 3 years, learnt 8 computer languages-contributing to projects with each language    
-Read textbooks and industry sources regarding core principles in machine learning, quantum computing, system engineering, full stack engineering, and computational theory         
+---        
    
-Works to solve problems with creativity and logic while heart plays to deliver meaningful work which provides applicable benefits    
-Currently looking for a role within an organization with a high ceiling for growth and comfortability with experimental and disruptive ideas        
+### Works to solve problems with creativity and logic while heart plays to deliver meaningful work which provides applicable benefits    
+### Currently looking for a role within an organization with a high ceiling for growth and comfortability with experimental and disruptive ideas        
 
 
 --
