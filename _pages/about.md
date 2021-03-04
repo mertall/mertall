@@ -16,7 +16,8 @@ Bringing encompassing and diverse experience of unique delivered solutions for a
 --- 
 ## Current Roles
 
-### Tech Lead for REALOP I at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/)     
+### Tech Lead for REALOP I at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/)    
+
 #### Funded by [NASA](https://www.nasa.gov/content/about-cubesat-launch-initiative) and [The Green Iniatiave Fund](https://tgif.ucdavis.edu/) to deliver the first UC Davis CubeSat- REALOP I                      
 
 ##### Chronological       
