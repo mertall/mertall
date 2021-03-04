@@ -14,7 +14,7 @@ Mridul is an undergraduate at University of California - Davis (2021) with conce
 ---
 ### Microbiologist turned Mathematician
 
-Mridul came into college as a Microbiology major with ambition to get a Medical Doctorate. During his first qaurter Mridul opted out of taking an easier Life Sciences Calculus series and opted for Engineering Calculus series on a simple pretense- to push his own concieved notions of what he can and cannot learn. This was an intimdating time in Mridul's life as he struggled greatly with Math since 6th grade. After success in college Calculus, Mridul makes it a point to do the things he finds most challenging. This attitude contributed to Mridul's decision to switch majors to Math. More notably, Mridul has found this attitude is allowing him to delve into projects where he is not considered an expert but rather someone who is willing to deeply and quickly learn. While working on these projects Mridul came across the idea of a [servant leader](https://www.forbes.com/sites/forbescoachescouncil/2020/03/11/traditional-leadership-vs-servant-leadership/?sh=625ff0d4451e) and continues to practice and reflect on his servitude to others and their success.  
+Mridul came into college as a Microbiology major with ambition to get a Medical Doctorate. During his first quarter Mridul opted out of taking an easier Life Sciences Calculus series and opted for Engineering Calculus series on a simple pretense- to push his own concieved notions of what he can and cannot learn. This was an intimdating time in Mridul's life as he struggled greatly with Math since 6th grade. After success in college Calculus, Mridul makes it a point to do the things he finds most challenging. This attitude contributed to Mridul's decision to switch his major to Math. More notably, Mridul has found this attitude is allowing him to delve into projects where he is not considered an expert but rather someone who is willing to deeply and quickly learn. While working on these projects Mridul came across the idea of a [servant leader](https://www.forbes.com/sites/forbescoachescouncil/2020/03/11/traditional-leadership-vs-servant-leadership/?sh=625ff0d4451e) and continues to practice and reflect on his servitude to others and their success.  
 
 ---
 ### Blast to the Past
@@ -22,18 +22,18 @@ Mridul came into college as a Microbiology major with ambition to get a Medical 
 
 After building gaming and workstation computers for friends throughout highschool, Mridul picked up programming as a side hobby his Freshman year of college and created a LED array which utilized FFT and a Matlab GUI to change colors based on the song's tempo and frequency range while providing an easy to use interface.             
 
-During his first data structures class during his sophomore year, Mridul questioned the professor this: "Why do we only assign bits a value of 0 or 1, rather why not utilize all numbers between 0 and 1. This would allow for an infinite number of data points to be stored, theoretically." During this time Mridul had no clue what quantum computing was and how it worked- more notably he had no understanding of Electrical Engineering.     
+During his first data structures class of his Sophomore year, Mridul questioned the professor this: "Why do we only assign bits a value of 0 or 1, rather why not utilize all numbers between 0 and 1. This would allow for an infinite number of data points to be stored, theoretically." During this time Mridul had no clue what quantum computing was and how it worked- more notably he had no understanding of Electrical Engineering.     
 
-Mridul, closing off his sophomore year, saw a beautiful parallel between inductive proofs and recursion while learning inductive proofs for the first time in MAT 108, Introduction to Abstract Mathematics. After discussion with his MAT 108 TA about the parallels between induction and recursion Mridul was given challenging proofs which he later found to be similar to the [Infinite Hotel Paradox](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel).    
+Mridul, closing off his Sophomore year, saw a beautiful parallel between inductive proofs and recursion while learning inductive proofs for the first time in MAT 108, Introduction to Abstract Mathematics. After discussion with his MAT 108 TA about the parallels between induction and recursion Mridul was given challenging proofs which he later found to be similar to the [Infinite Hotel Paradox](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel).    
 
-After Mridul's third year he had taken quite a few math classes, instead of the Biological System Engineering track he had been doing for the past year Mridul opted for the Mathematics and Scientific Computation track due to the universality, rigor, parallel to computers, and his own grit. All the while he had been learning about Machine Learning and Quantum Computing through Coursera, greatly expanding his perspective on his own work and the world of technology.  
+During Mridul's Junior year he realized he had taken quite a few math classes, instead of the Biological System Engineering track he had been doing for the past year Mridul opted for the Mathematics and Scientific Computation track due to the subject matter's universality, rigor, parallel to computers, and his own grit. All the while he had been learning about Machine Learning and Quantum Computing through Coursera, greatly expanding his perspective on his own work and the world of technology.  
 
 ---
 ### What am I doing now?
 In under 3 years he has learnt 8 computer languages-contributing to projects with each language. Mridul has also read textbooks and industry sources regarding core principles in machine learning, quantum computing, system engineering, full stack engineering, and computational theory.      
 
 
-Currently Mridul is exploring textbooks and papers in qauntum machine learning and quantum hardware while learning the most intersting Mathematical topics to him so far: Optimization, Numerical Analysis, and Complex Variables Analysis. He is also preparing three presentations for the Undergraduate Research Conference coming up in a few months with topics of Research in Quantum Algorithms, Computer Vision, and Operating Systems. In addition, Mridul is actively applying for full time jobs to gain more industry experience with a keen interest of going back to school for Electrical Engineering with a focus on Advanced Computing Hardware.    
+Currently Mridul is exploring textbooks and papers in qauntum machine learning and quantum hardware while learning the most interesting Mathematical topics to him so far: Optimization, Numerical Analysis, and Complex Variables Analysis. He is also preparing three presentations for the Undergraduate Research Conference coming up in a few months with topics of Research in Quantum Algorithms, Computer Vision, and Operating Systems. In addition, Mridul is actively applying for full time jobs to gain more industry experience with a keen interest of going back to school for Electrical Engineering with a focus on Advanced Computing Hardware.    
    
    
 Mridul's mind works to solve problems with creativty and logic while his heart plays to deliver meaningful work which provides applicable benefits. Currently, he is looking for a role within an organization with a high ceiling for growth and comfortability with experimental and disruptive ideas.       
@@ -67,10 +67,10 @@ I was a Machine Learning Research Assistant of [Dr. Rishidev Chaudhuri's Researc
     
 I was a AI Developer at VMware earning an opportunity with [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/) due to my past experience with text pre processing and NLP. Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA).    
 
-A page detailing all of my [work](https://mertall.github.io/mertall//cv/).
+A page detailing all of my other [work and skills](https://mertall.github.io/mertall//cv/).
 
 ---
-### My journey :chart_with_upwards_trend:    
+### My journey    
 An atomic family miles from those they love    
 I was given an opportunity     
 to carry my family’s name     
