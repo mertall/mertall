@@ -36,7 +36,7 @@ In under 3 years he has learnt 8 computer languages-contributing to projects wit
 Currently Mridul is exploring textbooks and papers in qauntum machine learning and quantum hardware while learning the most interesting Mathematical topics to him so far: Optimization, Numerical Analysis, and Complex Variables Analysis. He is also preparing three presentations for the Undergraduate Research Conference coming up in a few months with topics of Research in Quantum Algorithms, Computer Vision, and Operating Systems. In addition, Mridul is actively applying for full time jobs to gain more industry experience with a keen interest of going back to school for Electrical Engineering with a focus on Advanced Computing Hardware.    
    
    
-Mridul's mind works to solve problems with creativty and logic while his heart plays to deliver meaningful work which provides applicable benefits. Currently, he is looking for a role within an organization with a high ceiling for growth and comfortability with experimental and disruptive ideas.       
+Mridul's mind works to solve problems with creativity and logic while his heart plays to deliver meaningful work which provides applicable benefits. Currently, he is looking for a role within an organization with a high ceiling for growth and comfortability with experimental and disruptive ideas.       
 
  
 ---
