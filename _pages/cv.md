@@ -43,14 +43,14 @@ Teaching
 
 Talks
 ======
-* Undergraduate Research Presentation Series (08/15/20)        
-  *  Delivered talk about my past research and opportunities at UC Davis to 100+ prospective Undergraduate Researchers.    
-* Advantages of Agile and Automated Deployment (12/18/19-01/18/20)    
-  *  Delivered informative talks about Agile and Waterfall while giving technical guidance about Git and its functionality to over 100 engineers.    
-*  Math in Machine Learning (03/14/19)    
-  *  Delivered informative talks on Math in Machine Learning to 10 students with varying technical backgrounds.    
-*  Pushing Boundaries (07/20/18)    
-  *  Inspired class of 30 students in College Level Biology to focus on interdisciplinary skill sets to promote innovation and personal growth.     
+* Undergraduate Research Presentation Series (08/15/20)           
+  *  Delivered talk about my past research and opportunities at UC Davis to 100+ prospective Undergraduate Researchers.       
+* Advantages of Agile and Automated Deployment (12/18/19-01/18/20)        
+  *  Delivered informative talks about Agile and Waterfall while giving technical guidance about Git and its functionality to over 100 engineers.      
+* Math in Machine Learning (03/14/19)            
+  *  Delivered informative talks on Math in Machine Learning to 10 students with varying technical backgrounds.       
+* Pushing Boundaries (07/20/18)           
+  *  Inspired class of 30 students in College Level Biology to focus on interdisciplinary skill sets to promote innovation and personal growth.         
 
 Skills
 ======
