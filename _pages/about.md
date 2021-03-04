@@ -23,7 +23,8 @@ Computer Vision and Automated CubeSat Operating System research accepted to UC (
 
 
 Began journey as a Software Engineer attending the [CubeSAT Conference of 2019](https://www.linkedin.com/in/m161803398875s/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACPUQp8BFbg_2SYAMZP5IzlGJQriLrFAYAM,1589568728711)/)     
-Connected personally and instigated organizational ties with NASA, big and small CubeSat part manufacturers, and other schools during and after the CubeSat Conference      Gained and provided excellent insight into the strengths and weaknesses of our CubeSats technical systems. Follwing this conference developed autonomous control systems and eventually earned a position as Tech Lead     
+Connected personally and instigated organizational ties with NASA, big and small CubeSat part manufacturers, and other colleges during the CubeSat Conference                 Gained and provided excellent insight into the strengths and weaknesses of our CubeSats technical systems through holisitic understanding derived from Conference           
+Follwing this conference developed autonomous control systems and eventually earned a position as Tech Lead     
 Given the opportunity to present in front of NASA engineers and researchers during the [Preliminary Design Review](https://docs.google.com/presentation/d/1vQKaiEhmzjhkJINsw5upEErIL7w0eli49ZhPyFmvKlU/edit?usp=sharing) for REALOP I 
 Developed the [Agile Management Proposal](https://docs.google.com/document/d/1HTuV9DAut5XUEbByYMVwbrtg67TxJGHilfT-uTqb6LQ/edit?usp=sharing) with help from Space and Satellite System's president     
 Once Agile was implemented for Computer Systems team we saw a 50% boost in features being developed for the FlightOS and standardized documentation through Git version control, proper code practice, and vertical transparency within the ogranization on Mission objectives and problems to be solved            
