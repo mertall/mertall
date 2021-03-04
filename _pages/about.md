@@ -21,7 +21,7 @@ Bringing encompassing and diverse experience of unique delivered solutions for a
 #### Currently Tech Lead for REALOP I at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/)     
 ##### Funded by [NASA](https://www.nasa.gov/content/about-cubesat-launch-initiative) and [The Green Iniatiave Fund](https://tgif.ucdavis.edu/) to deliver the first UC Davis CubeSat- REALOP I                      
 
-(Chronological)      
+##### Chronological       
 Began journey as a Software Engineer attending the [CubeSAT Conference of 2019](https://www.linkedin.com/in/m161803398875s/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACPUQp8BFbg_2SYAMZP5IzlGJQriLrFAYAM,1589568728711)/)     
 Connected personally and instigated organizational ties with NASA, big and small CubeSat part manufacturers, and other colleges      
 Gained and provided excellent insight into the REALOP I technical systems through documentation of techincal conversation at Conference                   
@@ -37,7 +37,8 @@ Computer Vision and Automated CubeSat Operating System research accepted to UC D
 
 #### Currently Officer at [AI Society](http://aisocietydavis.com/) fostering educational workshops and project iniatives      
 
-(Chronological)      
+##### Chronological    
+
 Began as member coming to talks about Machine Learning, regularly attended for a year       
 Earned Officer title due to commitment to organization and excellence in VMware mentorship         
 Instigated connections with AI Society and the Econmics and Business Student Association, Space and Satellite Systems, and Quantum Computing @ UC Davis      
@@ -45,6 +46,8 @@ Gave Talk on Math behind Machine Learning
 
 ---
 ### Past Roles
+
+##### Chronological    
 
 #### Full Stack Engineer (2 month Contract) working with a company overseas     
 Consulted for their technical system- streaming between a 360 camera and VR headset     
