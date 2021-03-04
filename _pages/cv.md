@@ -31,7 +31,7 @@ Skills
   * Mathematical Modeling 
   * Algorithm Design
   * Humanistic/Customer Design Thinking
-  * Techincal Writing
+  * Technical Writing
 * Solving the Problem
   * Optimization
   * Numerical Analysis
