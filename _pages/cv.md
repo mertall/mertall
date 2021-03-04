@@ -25,7 +25,7 @@ Research
 
 * Quantum Neural Networks research and development with [10% increase in accuracy](https://github.com/XanaduAI/qml/pull/96) of Xanadu's Pennylane quantum convolutional neural network and Identified and solved flaw in CI/CD pipeline.    
  
-* Former Teaching Assistant from [CalTeach](https://calteach.universityofcalifornia.edu/about/) researching [equitable education methodology](https://docs.google.com/document/d/1Mch4lpR-XNMifn4EpstGSTs2YSxNYHBRkVg394yPB7Q/edit?usp=sharing).    
+* Former Teaching Assistant from [CalTeach](https://calteach.universityofcalifornia.edu/about/) who researched [equitable education methodology](https://docs.google.com/document/d/1Mch4lpR-XNMifn4EpstGSTs2YSxNYHBRkVg394yPB7Q/edit?usp=sharing).    
 
 * Real Vegan Cheese: Gained Wet Lab experience and certification, utilized PCR and other lab techniques in order to create cultured Lactose with Synthetic Biology Club. 
 
