@@ -30,7 +30,7 @@ Developed the [Agile Management Proposal](https://docs.google.com/document/d/1HT
 Once Agile was implemented for Computer Systems team:       
 * 50% boost in features being developed for the FlightOS       
 * Standardized documentation through Git version control, proper code practice, and vertical transparency within organization        
-      
+Implemented Waterfall for other subsystems      
 Reduced system time complexity by Big-O N squared-leveraging OOP and discarding multiple for loops that were being computed every half second               
 Computer Vision and Automated CubeSat Operating System research accepted to UC Davis Undergraduate Research Conference           
 
