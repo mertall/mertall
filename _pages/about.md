@@ -10,7 +10,8 @@ redirect_from:
 ## TLDR
 
 Mridul is an undergraduate at University of California - Davis (2021) with concentration in Mathematics and Scientific Computation          
-He has proved his problem solving acumen through continual practice with [simple and effective methodologies](https://mertall.github.io/mertall//cv/#skills) in defining and finding solutions to a problem while he brings the encompassing and diverse experience of delivering unique solutions for a [plethora of industries](https://mertall.github.io/mertall//cv/#research)     
+Defining and finding solutions to a problem through continual practice with [simple and effective methodologies](https://mertall.github.io/mertall//cv/#skills)    
+Bringing encompassing and diverse experience of unique delivered solutions for a plethora of industries-below and [here](https://mertall.github.io/mertall//cv/#research)     
 
 ## My Experience
 
@@ -19,23 +20,27 @@ He has proved his problem solving acumen through continual practice with [simple
 
 Currently Tech Lead for REALOP I at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/)     
 Funded by [NASA](https://www.nasa.gov/content/about-cubesat-launch-initiative) and [The Green Iniatiave Fund](https://tgif.ucdavis.edu/) to deliver the first UC Davis CubeSat- REALOP I                      
-Computer Vision and Automated CubeSat Operating System research accepted to UC (University of California) Davis Undergraduate Research Conference     
 
-
+(Chronological)      
 Began journey as a Software Engineer attending the [CubeSAT Conference of 2019](https://www.linkedin.com/in/m161803398875s/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACPUQp8BFbg_2SYAMZP5IzlGJQriLrFAYAM,1589568728711)/)     
-Connected personally and instigated organizational ties with NASA, big and small CubeSat part manufacturers, and other colleges during the CubeSat Conference                 Gained and provided excellent insight into the strengths and weaknesses of our CubeSats technical systems through holisitic understanding derived from Conference           
-Follwing this conference developed autonomous control systems and eventually earned a position as Tech Lead     
-Given the opportunity to present in front of NASA engineers and researchers during the [Preliminary Design Review](https://docs.google.com/presentation/d/1vQKaiEhmzjhkJINsw5upEErIL7w0eli49ZhPyFmvKlU/edit?usp=sharing) for REALOP I 
+Connected personally and instigated organizational ties with NASA, big and small CubeSat part manufacturers, and other colleges      
+Gained and provided excellent insight into the REALOP I technical systems through documentation of techincal conversation at Conference                   
+Developed autonomous control systems and earned a position as Tech Lead        
+Given the opportunity to present in front of NASA engineers and researchers during the [Preliminary Design Review](https://docs.google.com/presentation/d/1vQKaiEhmzjhkJINsw5upEErIL7w0eli49ZhPyFmvKlU/edit?usp=sharing)             
 Developed the [Agile Management Proposal](https://docs.google.com/document/d/1HTuV9DAut5XUEbByYMVwbrtg67TxJGHilfT-uTqb6LQ/edit?usp=sharing) with help from Space and Satellite System's president     
-Once Agile was implemented for Computer Systems team we saw a 50% boost in features being developed for the FlightOS and standardized documentation through Git version control, proper code practice, and vertical transparency within the ogranization on Mission objectives and problems to be solved            
-Able to reduce system time complexity by by O(N^2) through leveraging OOP and discarding multiple for loops that were being computed every half second         
+Once Agile was implemented for Computer Systems team:
+* 50% boost in features being developed for the FlightOS 
+* Standardized documentation through Git version control, proper code practice, and vertical transparency within organization
+Reduced system time complexity by by O(N^2) through leveraging OOP and discarding multiple for loops that were being computed every half second              
+Computer Vision and Automated CubeSat Operating System research accepted to UC (University of California) Davis Undergraduate Research Conference         
 
-Currently Officer at [AI Society](http://aisocietydavis.com/) fostering educational workshops and project iniatives to expose UC Davis undergraduates to the 'black box' in ML and AI     
+Currently Officer at [AI Society](http://aisocietydavis.com/) fostering educational workshops and project iniatives      
 
-Began as member coming to talks about Machine Learning, regularly attended for a year     
-Earned Officer title due to commitment to organization and excellence in VMware project      
-Instigated connections with AI Society and the Econmics and Business Student Association, Space and Satellite Systems, and Quantum Computing @ UC Davis   
-Gave Talk on Math behind Machine Learning     
+(Chronological)      
+Began as member coming to talks about Machine Learning, regularly attended for a year       
+Earned Officer title due to commitment to organization and excellence in VMware project         
+Instigated connections with AI Society and the Econmics and Business Student Association, Space and Satellite Systems, and Quantum Computing @ UC Davis      
+Gave Talk on Math behind Machine Learning         
 
 ---
 ### Past Roles
@@ -57,16 +62,15 @@ A page detailing other [work and skills](https://mertall.github.io/mertall//cv/)
 
 Came into college as a Microbiology major with ambition to become a Medical Doctor           
 During the first quarter opted out of taking a easier Life Sciences Calculus series and opted for an Engineering Calculus series on a simple pretense-to push concieved notions of what I intecually can or cannot do         
-This was an intimdating time- there was a great struggle with Math since 6th grade and larger focus on athletics with school being secondary           
+
+This was an intimdating time- there was a great struggle with Math since 6th grade along with focus on college althletics           
 After success in college Calculus, made it a point to do the things that are found to be intellectually challenging         
-This attitude contributed to the decision to switch major to Math   
-More notably, have found this attitude allows for boundless collaboration on projects- I am not considered an expert but rather someone who is willing to deeply and quickly learn                
+This attitude contributed to the decision to switch major to Math       
+Have found this attitude allows for boundless collaboration on projects- I am not considered an expert but rather someone who is willing to deeply and quickly learn                
+
 Hope to one day be regarded as an expert while continuing to intellectually challenge myself     
-After leading a few projects, came across the idea of a [servant leader](https://www.forbes.com/sites/forbescoachescouncil/2020/03/11/traditional-leadership-vs-servant-leadership/?sh=625ff0d4451e) and continue to practice and reflect on servitude to others and their success        
-
-
----
-### What am I doing now?
+After leading a few projects in line with how I served as captain for my rugby team, came across the parallel in my methdology and idea of a [servant leader](https://www.forbes.com/sites/forbescoachescouncil/2020/03/11/traditional-leadership-vs-servant-leadership/?sh=625ff0d4451e)       
+Continue to practice and reflect on servitude to others and their success        
 
 In under 3 years, learnt 8 computer languages-contributing to projects with each language    
 Read textbooks and industry sources regarding core principles in machine learning, quantum computing, system engineering, full stack engineering, and computational theory         
