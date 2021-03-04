@@ -11,7 +11,7 @@ redirect_from:
 
 Mridul is an undergraduate at University of California - Davis (2021) with concentration in Mathematics and Scientific Computation          
 Defining and finding solutions to a problem through continual practice with [simple and effective methodologies](https://mertall.github.io/mertall//cv/#skills)    
-Bringing encompassing and diverse experience of unique delivered solutions for a plethora of industries-below and [here](https://mertall.github.io/mertall//cv/#research)     
+Bringing encompassing and diverse experience of unique delivered solutions for a variety of industries-below and [here](https://mertall.github.io/mertall//cv/#research)     
 
 ## My Experience
 
