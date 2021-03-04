@@ -53,7 +53,7 @@ Consulted for their technical system- streaming between a 360 camera and VR head
 Eventually developed a $20,000 Peer to Peer LAMP Full Stack with Node.js, Unity, AWS, and C/C# (NDA)             
 
 ### Machine Learning Research Assistant of [Dr. Rishidev Chaudhuri's Research Group @ UC Davis Center for Neuroscience](https://chaudhurilab.faculty.ucdavis.edu/people/)            
-Increased the rate of computation for predictive lab results- mapping rats' spatial movement to brain activity, due to development of Big Data Pipeline        
+25% increase in rate of computation for predictive lab results- mapping rats' spatial movement to brain activity, due to development of Big Data Pipeline        
 Open sourced [Sparse PCA Backend](https://github.com/mridulsar/PCA)       
     
 ### AI Developer mentee at VMware | Mentor: [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/)     
