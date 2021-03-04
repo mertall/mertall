@@ -11,6 +11,32 @@ redirect_from:
 
 Mridul is an undergraduate at University of California - Davis (2021) with concentration in Mathematics and Scientific Computation. He has proved his problem solving acumen through continual practice with simple and effective methodologies in defining and finding solutions to a problem while he brings the encompassing and diverse experience of delivering unique solutions for a plethora of industries.
 
+## My Experience
+
+--- 
+### Current Roles
+
+Currently Tech Lead for REALOP I at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/)    
+* Computer Vision and Automated CubeSat Operating System research accepted to UC (University of California) Davis Undergraduate Research Conference.    
+* Space and Satellite Systems is funded by [NASA](https://www.nasa.gov/content/about-cubesat-launch-initiative) and [The Green Iniatiave Fund](https://tgif.ucdavis.edu/) to deliver the first UC Davis CubeSat- REALOP I. Our defintion for success is recieving Earth Science data for Atmospheric Scientists at UC Davis- propelling research of Global Warming. 
+* I began my journey as a Software Engineer attending the [CubeSAT Conference of 2019](https://www.linkedin.com/in/m161803398875s/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACPUQp8BFbg_2SYAMZP5IzlGJQriLrFAYAM,1589568728711)/). After talking with NASA, big and small CubeSat manufacturers, and other schools I gained and provided excellent insight into the strengths and weaknesses of our CubeSats technical systems. Follwing this conference I developed autonomous control systems and eventually earned a position as Tech Lead. 
+* I was given the opportunity to present in front of NASA engineers and researchers during the [Preliminary Design Review](https://docs.google.com/presentation/d/1vQKaiEhmzjhkJINsw5upEErIL7w0eli49ZhPyFmvKlU/edit?usp=sharing) for REALOP I. 
+* After delving deep into the technical system I decided to focus attention on managing human capital. In accordance I developed the [Agile Development Plan](https://docs.google.com/document/d/1HTuV9DAut5XUEbByYMVwbrtg67TxJGHilfT-uTqb6LQ/edit?usp=sharing) with help from Space and Satellite System's president. 
+* Most recently the REALOP I work I have been doing for almost 3 years ultimately became topics for research which were accepted to UC Davis. In addition I briefly took a few months to analyze overall computational effeciency of the system. I was able to reduce system time complexity by by O(N^2) through leveraging OOP and discarding multiple for loops that were being computed every half second.     
+
+Currently Officer at [AI Society](http://aisocietydavis.com/) fostering educational workshops and project iniatives to expose UC Davis undergraduates to the 'black box' in ML and AI. 
+* Gave Talk on Math behind Machine Learning
+
+---
+### Past Roles
+
+I was a Full Stack Engineer (2 month Contract) working with a company overseas. I consulted for their technical system streaming between a 360 camera and VR headset. Eventually I developed a $20,000 Peer to Peer LAMP Full Stack with Node.js, Unity, AWS, and C/C# (NDA).        
+
+I was a Machine Learning Research Assistant of [Dr. Rishidev Chaudhuri's Research Group @ UC Davis Center for Neuroscience](https://chaudhurilab.faculty.ucdavis.edu/people/). I increased the rate of computation for predictive lab results- mapping rats' spatial movement to brain activity, due to development of Big Data Pipeline. Open sourced [Sparse PCA Backend](https://github.com/mridulsar/PCA).       
+    
+I was a AI Developer at VMware earning an opportunity with [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/) due to my past experience with text pre processing and NLP. Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA).    
+
+A page detailing all of my other [work and skills](https://mertall.github.io/mertall//cv/).
 ---
 ### Microbiologist turned Mathematician
 
@@ -30,44 +56,11 @@ During Mridul's Junior year he realized he had taken quite a few math classes, i
 
 ---
 ### What am I doing now?
+
 In under 3 years he has learnt 8 computer languages-contributing to projects with each language. Mridul has also read textbooks and industry sources regarding core principles in machine learning, quantum computing, system engineering, full stack engineering, and computational theory.      
-
-
-Currently Mridul is exploring textbooks and papers in qauntum machine learning and quantum hardware while learning the most interesting Mathematical topics to him so far: Optimization, Numerical Analysis, and Complex Variables Analysis. He is also preparing three presentations for the Undergraduate Research Conference coming up in a few months with topics of Research in Quantum Algorithms, Computer Vision, and Operating Systems. In addition, Mridul is actively applying for full time jobs to gain more industry experience with a keen interest of going back to school for Electrical Engineering with a focus on Advanced Computing Hardware.    
-   
    
 Mridul's mind works to solve problems with creativity and logic while his heart plays to deliver meaningful work which provides applicable benefits. Currently, he is looking for a role within an organization with a high ceiling for growth and comfortability with experimental and disruptive ideas.       
 
- 
----
-
-## My Experience
-
---- 
-### Current Roles
-
-Currently Tech Lead for REALOP I at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/)    
-* Computer Vision and Automated CubeSat Operating System research accepted to UC (University of California) Davis Undergraduate Research Conference.    
-* Space and Satellite Systems is funded by [NASA](https://www.nasa.gov/content/about-cubesat-launch-initiative) and [The Green Iniatiave Fund](https://tgif.ucdavis.edu/) to deliver the first UC Davis CubeSat- REALOP I. Our defintion for success is recieving Earth Science data for Atmospheric Scientists at UC Davis- propelling research of Global Warming. 
-* I began my journey as a Software Engineer attending the [CubeSAT Conference of 2019](https://www.linkedin.com/in/m161803398875s/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACPUQp8BFbg_2SYAMZP5IzlGJQriLrFAYAM,1589568728711)/). After talking with NASA, big and small CubeSat manufacturers, and other schools I gained and provided excellent insight into the strengths and weaknesses of our CubeSats technical systems. Follwing this conference I developed autonomous control systems and eventually earned a position as Tech Lead. 
-* I was given the opportunity to present in front of NASA engineers and researchers during the [Preliminary Design Review](https://docs.google.com/presentation/d/1vQKaiEhmzjhkJINsw5upEErIL7w0eli49ZhPyFmvKlU/edit?usp=sharing) for REALOP I. 
-* After delving deep into the technical system I decided to focus attention on managing human capital. In accordance I developed the [Agile Development Plan](https://docs.google.com/document/d/1HTuV9DAut5XUEbByYMVwbrtg67TxJGHilfT-uTqb6LQ/edit?usp=sharing) with help from Space and Satellite System's president. 
-* Most recently the REALOP I work I have been doing for almost 3 years ultimately became topics for research which were accepted to UC Davis. In addition I briefly took a few months to analyze overall computational effeciency of the system. I was able to reduce system time complexity by by O(N^2) through leveraging OOP and discarding multiple for loops that were being computed every half second.     
-
-Currently Officer at [AI Society](http://aisocietydavis.com/) fostering educational workshops and project iniatives to expose UC Davis undergraduates to the 'black box' in ML and AI. 
-* Gave Talk on Math behind Machine Learning
-
-
----
-### Past Roles
-
-I was a Full Stack Engineer (2 month Contract) working with a company overseas. I consulted for their technical system streaming between a 360 camera and VR headset. Eventually I developed a $20,000 Peer to Peer LAMP Full Stack with Node.js, Unity, AWS, and C/C# (NDA).        
-
-I was a Machine Learning Research Assistant of [Dr. Rishidev Chaudhuri's Research Group @ UC Davis Center for Neuroscience](https://chaudhurilab.faculty.ucdavis.edu/people/). I increased the rate of computation for predictive lab results- mapping rats' spatial movement to brain activity, due to development of Big Data Pipeline. Open sourced [Sparse PCA Backend](https://github.com/mridulsar/PCA).       
-    
-I was a AI Developer at VMware earning an opportunity with [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/) due to my past experience with text pre processing and NLP. Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA).    
-
-A page detailing all of my other [work and skills](https://mertall.github.io/mertall//cv/).
 
 ---
 ### My journey    
