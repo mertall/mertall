@@ -32,7 +32,7 @@ Once Agile was implemented for Computer Systems team:
 * 50% boost in features being developed for the FlightOS       
 * Standardized documentation through Git version control, proper code practice, and vertical transparency within organization        
       
-Reduced system time complexity by by O(N^2) through leveraging OOP and discarding multiple for loops that were being computed every half second               
+Reduced system time complexity by O(N^2)-leveraging OOP and discarding multiple for loops that were being computed every half second               
 Computer Vision and Automated CubeSat Operating System research accepted to UC Davis Undergraduate Research Conference           
 
 Currently Officer at [AI Society](http://aisocietydavis.com/) fostering educational workshops and project iniatives      
