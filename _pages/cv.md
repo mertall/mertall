@@ -12,17 +12,17 @@ redirect_from:
 
 Research
 ======
-* [Minimum of unsorted database in O(log(N))](https://github.com/mertall/DurrHoyerLibrary) through algorithm developed by Dr. Durr and Dr. Hoyer. Developed a Open Source Software Library collaborating with Microsoft's Qsharp Community, research accepted to UC Davis Undergraduate Research Conference.   
+### [Minimum of unsorted database in O(log(N))](https://github.com/mertall/DurrHoyerLibrary) through algorithm developed by Dr. Durr and Dr. Hoyer. Developed a Open Source Software Library collaborating with Microsoft's Qsharp Community, research accepted to UC Davis Undergraduate Research Conference.   
 
-* [REALOP 2](http://bitly.ws/bSXK) is my novel CubeSat proposal to track and store changes in the Earth's atmosphere and surface delivering unmatched resolution and metrics of the Earth's health. This mission expands on REALOP I, the first mission from Space and Satellite Systems.      
+### [REALOP 2](http://bitly.ws/bSXK) is my novel CubeSat proposal to track and store changes in the Earth's atmosphere and surface delivering unmatched resolution and metrics of the Earth's health. This mission expands on REALOP I, the first mission from Space and Satellite Systems.      
 
-* [Change Agent](https://www.change.org/p/waubonsie-valley-adminstration-change-waubonsie-valley-high-school-s-mascot/dashboard?source_location=user_profile_started) who gathered 16,000 signatures on a petition for change. Instigated by research of Native American Human Rights supported by UC Davis Native American Studies and duties as a [past Leader for my high school](http://wvhs.ipsd.org/News.aspx?id=99090).      
+### [Change Agent](https://www.change.org/p/waubonsie-valley-adminstration-change-waubonsie-valley-high-school-s-mascot/dashboard?source_location=user_profile_started) who gathered 16,000 signatures on a petition for change. Instigated by research of Native American Human Rights supported by UC Davis Native American Studies and duties as a [past Leader for my high school](http://wvhs.ipsd.org/News.aspx?id=99090).      
 
-* Quantum Neural Networks research and development with [10% increase in accuracy](https://github.com/XanaduAI/qml/pull/96) of Xanadu's Pennylane quantum convolutional neural network and Identified and solved flaw in CI/CD pipeline.    
+### Quantum Neural Networks research and development with [10% increase in accuracy](https://github.com/XanaduAI/qml/pull/96) of Xanadu's Pennylane quantum convolutional neural network and Identified and solved flaw in CI/CD pipeline.    
  
-* Former Teaching Assistant from [CalTeach](https://calteach.universityofcalifornia.edu/about/) who researched [equitable education methodology](https://docs.google.com/document/d/1Mch4lpR-XNMifn4EpstGSTs2YSxNYHBRkVg394yPB7Q/edit?usp=sharing).    
+### Former Teaching Assistant from [CalTeach](https://calteach.universityofcalifornia.edu/about/) who researched [equitable education methodology](https://docs.google.com/document/d/1Mch4lpR-XNMifn4EpstGSTs2YSxNYHBRkVg394yPB7Q/edit?usp=sharing).    
 
-* Real Vegan Cheese: Gained Wet Lab experience and certification, utilized PCR and other lab techniques in order to create cultured Lactose with Synthetic Biology Club. 
+### Real Vegan Cheese: Gained Wet Lab experience and certification, utilized PCR and other lab techniques in order to create cultured Lactose with Synthetic Biology Club. 
 
 Skills
 ======
