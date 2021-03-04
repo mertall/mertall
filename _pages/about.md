@@ -30,12 +30,12 @@ Developed autonomous control systems and earned a position as Tech Lead
 Given the opportunity to present in front of NASA engineers and researchers during the [Preliminary Design Review](https://docs.google.com/presentation/d/1vQKaiEhmzjhkJINsw5upEErIL7w0eli49ZhPyFmvKlU/edit?usp=sharing)             
 Developed the [Agile Management Proposal](https://docs.google.com/document/d/1HTuV9DAut5XUEbByYMVwbrtg67TxJGHilfT-uTqb6LQ/edit?usp=sharing) with help from Space and Satellite System's president          
 Once Agile was implemented for Computer Systems team:       
-* 50% boost in features being developed for the FlightOS       
-* Standardized documentation through Git version control, proper code practice, and vertical transparency within organization          
+* [50% boost in features](https://github.com/uc-davis-space-and-satellite-systems/efos/projects/1) being developed for the FlightOS       
+* [Standardized documentation](https://github.com/uc-davis-space-and-satellite-systems/efos#flight-operating-system-fos) through Git version control, proper code practice, and vertical transparency within organization          
 
 Implemented Waterfall for other subsystems         
 Reduced system time complexity by Big-O N squared-leveraging OOP and discarding multiple for loops that were being computed every half second               
-Computer Vision and Automated CubeSat Operating System research accepted to UC Davis Undergraduate Research Conference           
+Computer Vision and Automated CubeSat Operating System research accepted to [UC Davis Undergraduate Research Conference](https://urc.ucdavis.edu/conference)           
 
 ### Officer at [AI Society](http://aisocietydavis.com/) fostering educational workshops and project iniatives (Leaving June 2021)      
 
