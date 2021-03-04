@@ -18,8 +18,8 @@ Bringing encompassing and diverse experience of unique delivered solutions for a
 --- 
 ### Current Roles
 
-Currently Tech Lead for REALOP I at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/)     
-Funded by [NASA](https://www.nasa.gov/content/about-cubesat-launch-initiative) and [The Green Iniatiave Fund](https://tgif.ucdavis.edu/) to deliver the first UC Davis CubeSat- REALOP I                      
+#### Currently Tech Lead for REALOP I at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/)     
+##### Funded by [NASA](https://www.nasa.gov/content/about-cubesat-launch-initiative) and [The Green Iniatiave Fund](https://tgif.ucdavis.edu/) to deliver the first UC Davis CubeSat- REALOP I                      
 
 (Chronological)      
 Began journey as a Software Engineer attending the [CubeSAT Conference of 2019](https://www.linkedin.com/in/m161803398875s/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACPUQp8BFbg_2SYAMZP5IzlGJQriLrFAYAM,1589568728711)/)     
@@ -35,7 +35,7 @@ Once Agile was implemented for Computer Systems team:
 Reduced system time complexity by Big-O N squared-leveraging OOP and discarding multiple for loops that were being computed every half second               
 Computer Vision and Automated CubeSat Operating System research accepted to UC Davis Undergraduate Research Conference           
 
-Currently Officer at [AI Society](http://aisocietydavis.com/) fostering educational workshops and project iniatives      
+#### Currently Officer at [AI Society](http://aisocietydavis.com/) fostering educational workshops and project iniatives      
 
 (Chronological)      
 Began as member coming to talks about Machine Learning, regularly attended for a year       
