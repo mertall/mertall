@@ -6,35 +6,47 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----      
-Mridul is an undergraduate at University of California - Davis (2021) with concentration in Mathematics and Scientific Computation. He has proved his problem solving acumen through continual practice in diverse industries and methodlogies for defining and finding solutions to the problem while bringing the expansive experience of delivering unique solutions to a problem.     
+---
+## TLDR
 
-:arrow_down:    
+Mridul is an undergraduate at University of California - Davis (2021) with concentration in Mathematics and Scientific Computation. He has proved his problem solving acumen through continual practice with simple and effective methdologies in defining and finding solutions to a problem while bringing the encompassing and diverse experience of delivering unique solutions for a plethora of industries.
 
-Mridul came into college as a Microbiology major and took Engineering Calculus on a simple pretense- to push his own concieved notions of what he can and cannot learn. Mridul struggled greatly with Math throughout his life, he makes it a point to do the things he finds most challenging. This attitude has carried Mridul far, allowing him to delve into projects where he is not considered an expert but rather someone who is willing to learn, a quick learner, and a [servant leader](https://www.forbes.com/sites/forbescoachescouncil/2020/03/11/traditional-leadership-vs-servant-leadership/?sh=625ff0d4451e).  
+---
+### Microbiologist turned Mathematician
 
-:rewind:
+Mridul came into college as a Microbiology major with ambition to get a Medical Doctorate. During his first qaurter Mridul opted out of taking an easier Life Sciences Calculus series and opted for Engineering Calculus series on a simple pretense- to push his own concieved notions of what he can and cannot learn. This was an intimdating time in Mridul's life as he struggled greatly with Math since 6th grade. After success in college Calculus, Mridul makes it a point to do the things he finds most challenging. This attitude contributed to Mridul's decision to switch majors to Math. More notably, Mridul has found this attitude is allowing him to delve into projects where he is not considered an expert but rather someone who is willing to deeply and quickly learn. While working on these projects Mridul came across the idea of a [servant leader](https://www.forbes.com/sites/forbescoachescouncil/2020/03/11/traditional-leadership-vs-servant-leadership/?sh=625ff0d4451e) and continues to practice and reflect on his servitude to others and their success.  
 
-After building gaming and workstation computers for friends throughout highschool, Mridul picked up programming as a side hobby his Freshman year of college and created a LED array which utilized FFT and a Matlab GUI to change colors based on a song and its tempo while providing an easy to use interface.             
+---
+### Blast to the Past
+
+
+After building gaming and workstation computers for friends throughout highschool, Mridul picked up programming as a side hobby his Freshman year of college and created a LED array which utilized FFT and a Matlab GUI to change colors based on the song's tempo and frequency range while providing an easy to use interface.             
 
 During his first data structures class during his sophomore year, Mridul questioned the professor this: "Why do we only assign bits a value of 0 or 1, rather why not utilize all numbers between 0 and 1. This would allow for an infinite number of data points to be stored, theoretically." During this time Mridul had no clue what quantum computing was and how it worked- more notably he had no understanding of Electrical Engineering.     
 
-Mridul, closing off his sophomore year, saw a beautiful parallel between inductive proofs and recursion while learning inductive proofs for the first time in MAT 108, Introduction to Abstract Mathematics. After discussion with his MAT 108 TA about the parallels between induction and recursion Mridul was given challenging proofs which he later found to be similar to the [Infinite Hotel Paradox](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel).     
+Mridul, closing off his sophomore year, saw a beautiful parallel between inductive proofs and recursion while learning inductive proofs for the first time in MAT 108, Introduction to Abstract Mathematics. After discussion with his MAT 108 TA about the parallels between induction and recursion Mridul was given challenging proofs which he later found to be similar to the [Infinite Hotel Paradox](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel).    
 
-:fast_forward:     
+After Mridul's third year he had taken quite a few math classes, instead of the Biological System Engineering track he had been doing for the past year Mridul opted for the Mathematics and Scientific Computation track due to the universality, rigor, parallel to computers, and his own grit. All the while he had been learning about Machine Learning and Quantum Computing through Coursera, greatly expanding his perspective on his own work and the world of technology.  
 
-In under 3 years he has learnt 8 computer languages-contributing to projects with each language. Mridul has also read textbooks and industry sources regarding core principles in machine learning, quantum computing, system engineering, full stack engineering, and computational theory.    
+---
+### What am I doing now?
+In under 3 years he has learnt 8 computer languages-contributing to projects with each language. Mridul has also read textbooks and industry sources regarding core principles in machine learning, quantum computing, system engineering, full stack engineering, and computational theory.      
 
-:arrows_counterclockwise:     
 
-Mridul's mind works to solve problems with creativty and logic while his heart plays to deliver meaningful work which provides applicable benefits. Currently, he is looking for a role within an organization with a high ceiling for growth and comfortability with experimental and disruptive ideas.     
+Currently Mridul is exploring textbooks and papers in qauntum machine learning and quantum hardware while learning the most intersting Mathematical topics to him so far: Optimization, Numerical Analysis, and Complex Variables Analysis. He is also preparing three presentations for the Undergraduate Research Conference coming up in a few months with topics of Research in Quantum Algorithms, Computer Vision, and Operating Systems. In addition, Mridul is actively applying for full time jobs to gain more industry experience with a keen interest of going back to school for Electrical Engineering with a focus on Advanced Computing Hardware.    
+   
+   
+Mridul's mind works to solve problems with creativty and logic while his heart plays to deliver meaningful work which provides applicable benefits. Currently, he is looking for a role within an organization with a high ceiling for growth and comfortability with experimental and disruptive ideas.       
 
  
 ---
 
 ## My Experience
 
-:satellite: Currently Tech Lead for REALOP I at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/)    
+--- 
+### Current Roles
+
+Currently Tech Lead for REALOP I at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/)    
 * Computer Vision and Automated CubeSat Operating System research accepted to UC (University of California) Davis Undergraduate Research Conference.    
 * Space and Satellite Systems is funded by [NASA](https://www.nasa.gov/content/about-cubesat-launch-initiative) and [The Green Iniatiave Fund](https://tgif.ucdavis.edu/) to deliver the first UC Davis CubeSat- REALOP I. Our defintion for success is recieving Earth Science data for Atmospheric Scientists at UC Davis- propelling research of Global Warming. 
 * I began my journey as a Software Engineer attending the [CubeSAT Conference of 2019](https://www.linkedin.com/in/m161803398875s/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACPUQp8BFbg_2SYAMZP5IzlGJQriLrFAYAM,1589568728711)/). After talking with NASA, big and small CubeSat manufacturers, and other schools I gained and provided excellent insight into the strengths and weaknesses of our CubeSats technical systems. Follwing this conference I developed autonomous control systems and eventually earned a position as Tech Lead. 
@@ -42,11 +54,18 @@ Mridul's mind works to solve problems with creativty and logic while his heart p
 * After delving deep into the technical system I decided to focus attention on managing human capital. In accordance I developed the [Agile Development Plan](https://docs.google.com/document/d/1HTuV9DAut5XUEbByYMVwbrtg67TxJGHilfT-uTqb6LQ/edit?usp=sharing) with help from Space and Satellite System's president. 
 * Most recently the REALOP I work I have been doing for almost 3 years ultimately became topics for research which were accepted to UC Davis. In addition I briefly took a few months to analyze overall computational effeciency of the system. I was able to reduce system time complexity by by O(N^2) through leveraging OOP and discarding multiple for loops that were being computed every half second.     
 
-:computer: I was a Full Stack Engineer (2 month Contract) working with a company overseas. I consulted for their technical system streaming between a 360 camera and VR headset. Eventually I developed a $20,000 Peer to Peer LAMP Full Stack with Node.js, Unity, AWS, and C/C# (NDA).        
+Currently Officer at [AI Society](http://aisocietydavis.com/) fostering educational workshops and project iniatives to expose UC Davis undergraduates to the 'black box' in ML and AI. 
+* Gave Talk on Math behind Machine Learning
 
-:rat: I was a Machine Learning Research Assistant of [Dr. Rishidev Chaudhuri's Research Group @ UC Davis Center for Neuroscience](https://chaudhurilab.faculty.ucdavis.edu/people/). I increased the rate of computation for predictive lab results- mapping rats' spatial movement to brain activity, due to development of Big Data Pipeline. Open sourced [Sparse PCA Backend](https://github.com/mridulsar/PCA).       
+
+---
+### Past Roles
+
+I was a Full Stack Engineer (2 month Contract) working with a company overseas. I consulted for their technical system streaming between a 360 camera and VR headset. Eventually I developed a $20,000 Peer to Peer LAMP Full Stack with Node.js, Unity, AWS, and C/C# (NDA).        
+
+I was a Machine Learning Research Assistant of [Dr. Rishidev Chaudhuri's Research Group @ UC Davis Center for Neuroscience](https://chaudhurilab.faculty.ucdavis.edu/people/). I increased the rate of computation for predictive lab results- mapping rats' spatial movement to brain activity, due to development of Big Data Pipeline. Open sourced [Sparse PCA Backend](https://github.com/mridulsar/PCA).       
     
-:robot: I was a AI Developer at VMware earning an opportunity with [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/) due to my past experience with text pre processing and NLP. Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA).    
+I was a AI Developer at VMware earning an opportunity with [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/) due to my past experience with text pre processing and NLP. Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA).    
 
 A page detailing all of my [work](https://mertall.github.io/mertall//cv/).
 
