@@ -27,7 +27,10 @@ Research
  
 * Former Teaching Assistant from [CalTeach](https://calteach.universityofcalifornia.edu/about/) researching [equitable education methodology](https://docs.google.com/document/d/1Mch4lpR-XNMifn4EpstGSTs2YSxNYHBRkVg394yPB7Q/edit?usp=sharing).    
 
-* Real Vegan Cheese: Gained Wet Lab experience and certification, utilized PCR and other lab techniques in order to create cultured Lactose with Synthetic Biology Club.    
+* Real Vegan Cheese: Gained Wet Lab experience and certification, utilized PCR and other lab techniques in order to create cultured Lactose with Synthetic Biology Club. 
+
+Ongoing Publications
+======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
