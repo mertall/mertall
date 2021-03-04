@@ -71,7 +71,7 @@ Eventually developed a $20,000 Peer to Peer LAMP Full Stack with Node.js, Unity,
 ### Brain works to solve problems with creativity and logic while heart plays to deliver meaningful work which provides applicable benefits    
 
 
---
+---
 ## My journey    
 An atomic family miles from those they love    
 I was given an opportunity     
