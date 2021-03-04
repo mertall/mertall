@@ -2,7 +2,6 @@
 title: "An Open Source Implementation of the Durr Hoyer Algorithm"
 collection: publications
 excerpt: ''
-date: '2020-01-01'
 paperurl: 
 citation: 'Sarkar, Mridul. Preprint. &quot;An Open Source Implementation of the Durr Hoyer Algorithm.&quot;.'
 ---
