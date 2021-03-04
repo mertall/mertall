@@ -38,7 +38,7 @@ Currently Officer at [AI Society](http://aisocietydavis.com/) fostering educatio
 
 (Chronological)      
 Began as member coming to talks about Machine Learning, regularly attended for a year       
-Earned Officer title due to commitment to organization and excellence in VMware project         
+Earned Officer title due to commitment to organization and excellence in VMware mentorship         
 Instigated connections with AI Society and the Econmics and Business Student Association, Space and Satellite Systems, and Quantum Computing @ UC Davis      
 Gave Talk on Math behind Machine Learning         
 
