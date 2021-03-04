@@ -77,4 +77,4 @@ Skills
   * MVP/Agile/DevOps/Waterfall
   * Accomdated and worked around language barriers (Spanish, German, and Arabic)
   * Provided thorough and effecient documentation for all projects
-  * Practiced innovative intra- and inter-team dynamics to ensure durabe product vision and on-time delivery
+  * Practiced innovative intra- and inter-team dynamics to ensure durable product vision and on-time delivery
