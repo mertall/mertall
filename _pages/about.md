@@ -51,16 +51,16 @@ Gave Talk on Math behind Machine Learning
 
 ##### Chronological    
 
-### Full Stack Engineer-2 month Contract    
-Consulted for their technical system- streaming between a 360 camera and VR headset     
-Eventually developed a $20,000 Peer to Peer LAMP Full Stack with Node.js, Unity, AWS, and C/C# (NDA)             
+### AI Developer mentee at VMware | Mentor: [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/)     
+Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA)                
 
 ### Machine Learning Research Assistant of [Dr. Rishidev Chaudhuri's Research Group @ UC Davis Center for Neuroscience](https://chaudhurilab.faculty.ucdavis.edu/people/)            
 25% increase in rate of computation for predictive lab results- mapping rats' spatial movement to brain activity, due to development of Big Data Pipeline        
 Open sourced [Sparse PCA Backend](https://github.com/mridulsar/PCA)       
-    
-### AI Developer mentee at VMware | Mentor: [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/)     
-Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA)       
+   
+### Full Stack Engineer-2 month Contract    
+Consulted for their technical system- streaming between a 360 camera and VR headset     
+Eventually developed a $20,000 Peer to Peer LAMP Full Stack with Node.js, Unity, AWS, and C/C# (NDA) 
 
 ---
 
