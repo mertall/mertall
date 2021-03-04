@@ -11,7 +11,9 @@ redirect_from:
 
 Mridul is an undergraduate at University of California - Davis (2021) with concentration in Mathematics and Scientific Computation          
 Defining and finding solutions to a problem through continual practice with [simple and effective methodologies](https://mertall.github.io/mertall//cv/#skills)    
-Bringing encompassing and diverse experience of unique delivered solutions for a variety of industries-below and [here](https://mertall.github.io/mertall//cv/#research)     
+Bringing encompassing and diverse experience of unique delivered solutions for a variety of industries-below and [here](https://mertall.github.io/mertall//cv/#research)  
+
+### Currently looking for a role within an organization with a high ceiling for growth and comfortability with experimental and disruptive ideas        
 
 --- 
 ## Current Roles
@@ -66,8 +68,7 @@ Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop
 
 ---        
    
-### Works to solve problems with creativity and logic while heart plays to deliver meaningful work which provides applicable benefits    
-### Currently looking for a role within an organization with a high ceiling for growth and comfortability with experimental and disruptive ideas        
+### Brain works to solve problems with creativity and logic while heart plays to deliver meaningful work which provides applicable benefits    
 
 
 --
