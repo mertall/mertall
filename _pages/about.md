@@ -47,7 +47,7 @@ Gave Talk on Math behind Machine Learning
 
 ##### Chronological    
 
-### Full Stack Engineer (2 month Contract) working with a company overseas     
+### Full Stack Engineer-2 month Contract    
 Consulted for their technical system- streaming between a 360 camera and VR headset     
 Eventually developed a $20,000 Peer to Peer LAMP Full Stack with Node.js, Unity, AWS, and C/C# (NDA)             
 
