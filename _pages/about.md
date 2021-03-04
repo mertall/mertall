@@ -18,7 +18,7 @@ Bringing encompassing and diverse experience of unique delivered solutions for a
 --- 
 ## Current Roles
 
-### Tech Lead for REALOP I at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/)    
+### Tech Lead for REALOP I at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/) (Leaving June 2021)    
 
 #### Funded by [NASA](https://www.nasa.gov/content/about-cubesat-launch-initiative) and [The Green Iniatiave Fund](https://tgif.ucdavis.edu/) to deliver the first UC Davis CubeSat- REALOP I                      
 
@@ -37,7 +37,7 @@ Implemented Waterfall for other subsystems
 Reduced system time complexity by Big-O N squared-leveraging OOP and discarding multiple for loops that were being computed every half second               
 Computer Vision and Automated CubeSat Operating System research accepted to UC Davis Undergraduate Research Conference           
 
-### Officer at [AI Society](http://aisocietydavis.com/) fostering educational workshops and project iniatives      
+### Officer at [AI Society](http://aisocietydavis.com/) fostering educational workshops and project iniatives (Leaving June 2021)      
 
 ##### Chronological    
 
