@@ -49,11 +49,11 @@ Full Stack Engineer (2 month Contract) working with a company overseas
 Consulted for their technical system- streaming between a 360 camera and VR headset     
 Eventually developed a $20,000 Peer to Peer LAMP Full Stack with Node.js, Unity, AWS, and C/C# (NDA)             
 
-Machine Learning Research Assistant of [Dr. Rishidev Chaudhuri's Research Group @ UC Davis Center for Neuroscience](https://chaudhurilab.faculty.ucdavis.edu/people/)      Increased the rate of computation for predictive lab results- mapping rats' spatial movement to brain activity, due to development of Big Data Pipeline      
+Machine Learning Research Assistant of [Dr. Rishidev Chaudhuri's Research Group @ UC Davis Center for Neuroscience](https://chaudhurilab.faculty.ucdavis.edu/people/)             Increased the rate of computation for predictive lab results- mapping rats' spatial movement to brain activity, due to development of Big Data Pipeline        
 Open sourced [Sparse PCA Backend](https://github.com/mridulsar/PCA)       
     
-AI Developer mentee at VMware earning an opportunity with [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/) due to past experience with text pre processing and NLP     
-Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA)         
+AI Developer mentee at VMware earning an opportunity with [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/) due to past experience with text pre processing and NLP         
+Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA)          
 
 A page detailing other [work and skills](https://mertall.github.io/mertall//cv/)         
 
