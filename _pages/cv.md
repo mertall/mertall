@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Further Background"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Mathematics and Scientific Computation, University of California-Davis June 2021
-* Machine Learning Certificate from Stanford
-* Quantum Computing Certificate from St. Petersburg University
 
 Research
 ======
@@ -28,29 +23,6 @@ Research
 * Former Teaching Assistant from [CalTeach](https://calteach.universityofcalifornia.edu/about/) who researched [equitable education methodology](https://docs.google.com/document/d/1Mch4lpR-XNMifn4EpstGSTs2YSxNYHBRkVg394yPB7Q/edit?usp=sharing).    
 
 * Real Vegan Cheese: Gained Wet Lab experience and certification, utilized PCR and other lab techniques in order to create cultured Lactose with Synthetic Biology Club. 
-
-Ongoing Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-* Undergraduate Research Presentation Series (08/15/20)           
-  *  Delivered talk about my past research and opportunities at UC Davis to 100+ prospective Undergraduate Researchers.       
-* Advantages of Agile and Automated Deployment (12/18/19-01/18/20)        
-  *  Delivered informative talks about Agile and Waterfall while giving technical guidance about Git and its functionality to over 100 engineers.      
-* Math in Machine Learning (03/14/19)            
-  *  Delivered informative talks on Math in Machine Learning to 10 students with varying technical backgrounds.       
-* Pushing Boundaries (07/20/18)           
-  *  Inspired class of 30 students in College Level Biology to focus on interdisciplinary skill sets to promote innovation and personal growth.         
 
 Skills
 ======
@@ -75,6 +47,25 @@ Skills
     * Hybrid Quantum and Classical Systems
 * Delivering the Solution
   * MVP/Agile/DevOps/Waterfall
-  * Accomdated and worked around language barriers (Spanish, German, and Arabic)
+  * Accomodated and worked around language barriers (Spanish, German, and Arabic)
   * Provided thorough and effecient documentation for all projects
-  * Practiced innovative intra- and inter-team dynamics to ensure durable product vision and on-time delivery
+  * Practiced agile intra- and inter-team dynamics to ensure durable product vision and on-time delivery
+
+
+Ongoing Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks
+======
+* Undergraduate Research Presentation Series (08/15/20)           
+  *  Delivered talk about my past research and opportunities at UC Davis to 100+ prospective Undergraduate Researchers.       
+* Advantages of Agile and Automated Deployment (12/18/19-01/18/20)        
+  *  Delivered informative talks about Agile and Waterfall while giving technical guidance about Git and its functionality to over 100 engineers.      
+* Math in Machine Learning (03/14/19)            
+  *  Delivered informative talks on Math in Machine Learning to 10 students with varying technical backgrounds.       
+* Pushing Boundaries (07/20/18)           
+  *  Inspired class of 30 students in College Level Biology to focus on interdisciplinary skill sets to promote innovation and personal growth.         
+
