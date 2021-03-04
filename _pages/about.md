@@ -7,19 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## TLDR
+# TLDR
 
 Mridul is an undergraduate at University of California - Davis (2021) with concentration in Mathematics and Scientific Computation          
 Defining and finding solutions to a problem through continual practice with [simple and effective methodologies](https://mertall.github.io/mertall//cv/#skills)    
 Bringing encompassing and diverse experience of unique delivered solutions for a variety of industries-below and [here](https://mertall.github.io/mertall//cv/#research)     
 
-## My Experience
-
 --- 
-### Current Roles
+## Current Roles
 
-#### Tech Lead for REALOP I at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/)     
-##### Funded by [NASA](https://www.nasa.gov/content/about-cubesat-launch-initiative) and [The Green Iniatiave Fund](https://tgif.ucdavis.edu/) to deliver the first UC Davis CubeSat- REALOP I                      
+### Tech Lead for REALOP I at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/)     
+#### Funded by [NASA](https://www.nasa.gov/content/about-cubesat-launch-initiative) and [The Green Iniatiave Fund](https://tgif.ucdavis.edu/) to deliver the first UC Davis CubeSat- REALOP I                      
 
 ##### Chronological       
 Began journey as a Software Engineer attending the [CubeSAT Conference of 2019](https://www.linkedin.com/in/m161803398875s/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACPUQp8BFbg_2SYAMZP5IzlGJQriLrFAYAM,1589568728711)/)     
@@ -35,7 +33,7 @@ Once Agile was implemented for Computer Systems team:
 Reduced system time complexity by Big-O N squared-leveraging OOP and discarding multiple for loops that were being computed every half second               
 Computer Vision and Automated CubeSat Operating System research accepted to UC Davis Undergraduate Research Conference           
 
-#### Officer at [AI Society](http://aisocietydavis.com/) fostering educational workshops and project iniatives      
+### Officer at [AI Society](http://aisocietydavis.com/) fostering educational workshops and project iniatives      
 
 ##### Chronological    
 
@@ -45,19 +43,19 @@ Instigated connections with AI Society and the Econmics and Business Student Ass
 Gave Talk on Math behind Machine Learning         
 
 ---
-### Past Roles
+## Past Roles
 
 ##### Chronological    
 
-#### Full Stack Engineer (2 month Contract) working with a company overseas     
+### Full Stack Engineer (2 month Contract) working with a company overseas     
 Consulted for their technical system- streaming between a 360 camera and VR headset     
 Eventually developed a $20,000 Peer to Peer LAMP Full Stack with Node.js, Unity, AWS, and C/C# (NDA)             
 
-#### Machine Learning Research Assistant of [Dr. Rishidev Chaudhuri's Research Group @ UC Davis Center for Neuroscience](https://chaudhurilab.faculty.ucdavis.edu/people/)            
+### Machine Learning Research Assistant of [Dr. Rishidev Chaudhuri's Research Group @ UC Davis Center for Neuroscience](https://chaudhurilab.faculty.ucdavis.edu/people/)            
 Increased the rate of computation for predictive lab results- mapping rats' spatial movement to brain activity, due to development of Big Data Pipeline        
 Open sourced [Sparse PCA Backend](https://github.com/mridulsar/PCA)       
     
-#### AI Developer mentee at VMware earning an opportunity with [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/)     
+### AI Developer mentee at VMware earning an opportunity with [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/)     
 Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA)       
 
 ---
@@ -71,7 +69,7 @@ Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop
 
 
 --
-### My journey    
+## My journey    
 An atomic family miles from those they love    
 I was given an opportunity     
 to carry my family’s name     
