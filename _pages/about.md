@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## TLDR
 
-Mridul is an undergraduate at University of California - Davis (2021) with concentration in Mathematics and Scientific Computation. He has proved his problem solving acumen through continual practice with simple and effective methdologies in defining and finding solutions to a problem while bringing the encompassing and diverse experience of delivering unique solutions for a plethora of industries.
+Mridul is an undergraduate at University of California - Davis (2021) with concentration in Mathematics and Scientific Computation. He has proved his problem solving acumen through continual practice with simple and effective methodologies in defining and finding solutions to a problem while he brings the encompassing and diverse experience of delivering unique solutions for a plethora of industries.
 
 ---
 ### Microbiologist turned Mathematician
