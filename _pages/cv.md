@@ -12,7 +12,9 @@ redirect_from:
 
 Research
 ======
-### [Minimum of unsorted database in O(log(N))](https://github.com/mertall/DurrHoyerLibrary) through algorithm developed by Dr. Durr and Dr. Hoyer. Developed a Open Source Software Library collaborating with Microsoft's Qsharp Community, research accepted to UC Davis Undergraduate Research Conference.   
+### [Investigating Quantum Advantage](https://docs.google.com/presentation/d/1I1tBIrZ28ssQfQgxVqNMmaTEu7NHP2SI6ZPYPRfkQUw/edit?usp=sharing) for 2 years. Presented to over 30 researchers and directors at the DoD February of 2020. Acquired sponsorship for Top Secret Clearance.      
+
+### [Minimum of unsorted database in O(log(N))](https://github.com/mertall/DurrHoyerLibrary) through algorithm developed by Dr. Durr and Dr. Hoyer. Developed a Open Source Software Library collaborating with Microsoft's Qsharp Community, research accepted to UC Davis Undergraduate Research Conference.       
 
 ### [REALOP 2](http://bitly.ws/bSXK) is my novel CubeSat proposal to track and store changes in the Earth's atmosphere and surface delivering unmatched resolution and metrics of the Earth's health. This mission expands on REALOP I, the first mission from Space and Satellite Systems.      
 
