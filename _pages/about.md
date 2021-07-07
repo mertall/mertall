@@ -9,20 +9,31 @@ redirect_from:
 ---
 # TLDR
 
-Mridul is an undergraduate at University of California - Davis (2021) with concentration in Mathematics and Scientific Computation          
-Defining and finding solutions to a problem through continual practice with [simple and effective methodologies](https://mertall.github.io/mertall//cv/#skills)    
-Bringing encompassing and diverse experience of unique delivered solutions for a variety of industries-below and [here](https://mertall.github.io/mertall//cv/#research)  
+Mridul is a graduate of University of California - Davis (2021) with concentration in Mathematics and Scientific Computation.          
+Defining and finding solutions to a problem through continual practice with [simple and effective methodologies](https://mertall.github.io/mertall//cv/#skills) throughout his career.    
+Bringing encompassing and diverse experience of unique delivered solutions for a variety of industries-mentioned below and [here](https://mertall.github.io/mertall//cv/#research)  
 
 ### Currently looking for a role within an organization with a high ceiling for growth and comfortability with experimental and disruptive ideas        
 
 --- 
 ## Current Roles
 
+### Quantum Software Teaching Assistant at MIT Lincoln Labs (2021) | Instructors: Joe Clapis & Richard Preston from MITRE      
+
+Reviewing everything quantum computing and software. Basic concepts in linear algebra, Algorithm Zoo, Error Correction, project based. Taught in Q# and Qiskit.    
+
+---
+## Past Roles
+
+
+### AI Developer mentee at VMware (2018) | Mentor: [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/)     
+Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA)      
+
 ### Tech Lead for REALOP I at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/) (Leaving June 2021)    
 
 #### Funded by [NASA](https://www.nasa.gov/content/about-cubesat-launch-initiative) and [The Green Iniatiave Fund](https://tgif.ucdavis.edu/) to deliver the first UC Davis CubeSat- REALOP I                      
 
-##### Chronological       
+##### Chronological (2018-2021)     
 Began journey as a Software Engineer attending the [CubeSAT Conference of 2019](https://www.linkedin.com/in/m161803398875s/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACPUQp8BFbg_2SYAMZP5IzlGJQriLrFAYAM,1589568728711)/)     
 Connected personally and instigated organizational ties with NASA, big and small CubeSat part manufacturers, and other colleges      
 Gained and provided insight into the REALOP I technical systems through documentation of techincal conversations at Conference                   
@@ -39,26 +50,19 @@ Computer Vision and Automated CubeSat Operating System research accepted to [UC 
 
 ### Officer at [AI Society](http://aisocietydavis.com/) fostering educational workshops and project iniatives (Leaving June 2021)      
 
-##### Chronological    
+##### Chronological (2018-2021) 
 
 Began as member coming to talks about Machine Learning, regularly attended for a year       
 Earned Officer title due to commitment to organization and excellence in VMware mentorship         
 Instigated connections with AI Society and the Econmics and Business Student Association, Space and Satellite Systems, and Quantum Computing @ UC Davis      
-Gave Talk on Math behind Machine Learning         
-
----
-## Past Roles
-
-##### Chronological    
-
-### AI Developer mentee at VMware | Mentor: [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/)     
-Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA)                
+Gave Talk on Math behind Machine Learning       
 
 ### Machine Learning Research Assistant of [Dr. Rishidev Chaudhuri's Research Group @ UC Davis Center for Neuroscience](https://chaudhurilab.faculty.ucdavis.edu/people/)            
 25% increase in rate of computation for predictive lab results- mapping rats' spatial movement to brain activity, due to development of Big Data Pipeline        
 Open sourced [Sparse PCA Backend](https://github.com/mridulsar/PCA)       
+
    
-### Full Stack Engineer-2 month Contract    
+### Full Stack Engineer-2 month Contract (2020)    
 Consulted for their technical system- streaming between a 360 camera and VR headset     
 Eventually developed a $20,000 Peer to Peer LAMP Full Stack with Node.js, Unity, AWS, and C/C# (NDA) 
 
