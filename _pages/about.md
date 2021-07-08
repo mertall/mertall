@@ -23,13 +23,9 @@ Bringing encompassing and diverse experience of unique delivered solutions for a
 Reviewing everything quantum computing and software. Basic concepts in linear algebra, Algorithm Zoo, Error Correction, project based. Taught in Q# and Qiskit.    
 
 ---
-## Past Roles
+## Past Roles    
 
-
-### AI Developer mentee at VMware (2018) | Mentor: [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/)     
-Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA)      
-
-### Tech Lead for REALOP I at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/) (Leaving June 2021)    
+### Tech Lead for REALOP I at [Space and Satellite Systems](https://www.ucdspaceandsatellitesystems.com/)    
 
 #### Funded by [NASA](https://www.nasa.gov/content/about-cubesat-launch-initiative) and [The Green Iniatiave Fund](https://tgif.ucdavis.edu/) to deliver the first UC Davis CubeSat- REALOP I                      
 
@@ -46,9 +42,12 @@ Once Agile was implemented for Computer Systems team:
 
 Implemented Waterfall for other subsystems         
 Reduced system time complexity by Big-O N squared-leveraging OOP and discarding multiple for loops that were being computed every half second               
-Computer Vision and Automated CubeSat Operating System research accepted to [UC Davis Undergraduate Research Conference](https://urc.ucdavis.edu/conference)           
+Computer Vision and Automated CubeSat Operating System research accepted to [UC Davis Undergraduate Research Conference](https://urc.ucdavis.edu/conference)
 
-### Officer at [AI Society](http://aisocietydavis.com/) fostering educational workshops and project iniatives (Leaving June 2021)      
+### AI Developer mentee at VMware | Mentor: [Abhishek Purushothama](https://www.linkedin.com/in/abhishekpurushothama/) (2018)       
+Utilized CoreNLP, Spacy, NLTK, BERT, SQUAD2.0, and distrubted systems to develop a business centric Question Answer Bot (NDA)  
+
+### Officer at [AI Society](http://aisocietydavis.com/) fostering educational workshops and project iniatives    
 
 ##### Chronological (2018-2021) 
 
@@ -57,7 +56,7 @@ Earned Officer title due to commitment to organization and excellence in VMware 
 Instigated connections with AI Society and the Econmics and Business Student Association, Space and Satellite Systems, and Quantum Computing @ UC Davis      
 Gave Talk on Math behind Machine Learning       
 
-### Machine Learning Research Assistant of [Dr. Rishidev Chaudhuri's Research Group @ UC Davis Center for Neuroscience](https://chaudhurilab.faculty.ucdavis.edu/people/)            
+### Machine Learning Research Assistant of [Dr. Rishidev Chaudhuri's Research Group @ UC Davis Center for Neuroscience](https://chaudhurilab.faculty.ucdavis.edu/people/) (2019)          
 25% increase in rate of computation for predictive lab results- mapping rats' spatial movement to brain activity, due to development of Big Data Pipeline        
 Open sourced [Sparse PCA Backend](https://github.com/mridulsar/PCA)       
 
