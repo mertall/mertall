@@ -18,7 +18,7 @@ Bringing encompassing and diverse experience of unique delivered solutions for a
 --- 
 ## Current Roles
 
-### Quantum Software Teaching Assistant at MIT Lincoln Labs (2021) | Instructors: Joe Clapis & Richard Preston from MITRE      
+### Quantum Software Teaching Assistant at MIT Lincoln Labs | Instructors: Joe Clapis & Richard Preston from MITRE (2021)           
 
 Reviewing everything quantum computing and software. Basic concepts in linear algebra, Algorithm Zoo, Error Correction, project based. Taught in Q# and Qiskit.    
 
