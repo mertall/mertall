@@ -12,7 +12,7 @@ redirect_from:
 
 Research
 ======
-### [Investigating Quantum Advantage](https://docs.google.com/presentation/d/1I1tBIrZ28ssQfQgxVqNMmaTEu7NHP2SI6ZPYPRfkQUw/edit?usp=sharing) for 2 years. Presented to over 30 researchers and directors at the DoD February of 2020. Acquired sponsorship for Top Secret Clearance.      
+### [Investigating Quantum Advantage](https://docs.google.com/presentation/d/1I1tBIrZ28ssQfQgxVqNMmaTEu7NHP2SI6ZPYPRfkQUw/edit?usp=sharing) for 2 years. Presented to over 30 researchers and directors at the DoD February of 2020. Recieved Conditional Job Offer reliant on Top Secret Clearnace going through.
 
 ### [Minimum of unsorted database in O(log(N))](https://github.com/mertall/DurrHoyerLibrary) through algorithm developed by Dr. Durr and Dr. Hoyer. Developed a Open Source Software Library collaborating with Microsoft's Qsharp Community, research accepted to UC Davis Undergraduate Research Conference.       
 
