@@ -12,7 +12,7 @@ redirect_from:
 
 Research
 ======
-### [Investigating Quantum Advantage](https://docs.google.com/presentation/d/1I1tBIrZ28ssQfQgxVqNMmaTEu7NHP2SI6ZPYPRfkQUw/edit?usp=sharing) for 2 years. Presented to over 30 researchers and directors at the NSA. Offered role as Computer Systems Researcher. Discontinued process due to moral and ethical reservations.
+### [Investigating Quantum Advantage](https://docs.google.com/presentation/d/1I1tBIrZ28ssQfQgxVqNMmaTEu7NHP2SI6ZPYPRfkQUw/edit?usp=sharing) for 2 years. Presented to over 30 researchers and directors at the NSA. Offered role as Computer Systems Researcher.
 
 ### [Minimum of unsorted database in O(log(N))](https://github.com/mertall/DurrHoyerLibrary) through algorithm developed by Dr. Durr and Dr. Hoyer. Developed a Open Source Software Library collaborating with Microsoft's Qsharp Community, research accepted to UC Davis Undergraduate Research Conference.       
 
