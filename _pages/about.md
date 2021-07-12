@@ -13,7 +13,8 @@ Mridul is a graduate of University of California - Davis (2021) with concentrati
 Defining and finding solutions to a problem through continual practice with [simple and effective methodologies](https://mertall.github.io/mertall//cv/#skills) throughout his career.    
 Bringing encompassing and diverse experience of unique delivered solutions for a variety of industries-mentioned below and [here](https://mertall.github.io/mertall//cv/#research)  
 
-### Currently looking for a role within an organization with a high ceiling for growth and comfortability with experimental and disruptive ideas        
+### Currently looking for a role within an organization with a high ceiling for growth and comfortability with open source experimental and disruptive ideas which are for the people.    
+### Looking to build a Quantum Processing Unit
 
 --- 
 ## Current Roles
